@@ -29,6 +29,11 @@ import {
   DialogTitle,
 } from "@/components/ui/dialog";
 
+interface QuizQuestion {
+  category?: string;
+  correctAnswer?: string;
+}
+
 interface QuizResult {
   id: string;
   score: number;
@@ -37,8 +42,8 @@ interface QuizResult {
   created_at: string;
   notes?: string | null;
   category_scores?: any;
-  answers: any;
-  questions: any;
+  answers: Array<string | number | null>;
+  questions: QuizQuestion[];
   user_id: string;
 }
 
@@ -88,7 +93,7 @@ const Results = () => {
         .order("created_at", { ascending: false });
 
       if (error) throw error;
-      setResults(data || []);
+      setResults(((data ?? []) as unknown) as QuizResult[]);
     } catch (error: any) {
       toast({
         title: "Erreur",

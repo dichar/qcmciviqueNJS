@@ -4,11 +4,10 @@ import Link from "next/link";
 import {
   usePathname,
   useRouter,
-  useSearchParams as useNextSearchParams,
   useParams as useNextParams,
 } from "next/navigation";
 import type { ComponentProps, ReactNode } from "react";
-import { useCallback, useEffect, useMemo } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
 export type NavigateOptions = { replace?: boolean };
 
@@ -40,8 +39,10 @@ export const useNavigate = () => {
 
 export const useLocation = () => {
   const pathname = usePathname() ?? "/";
-  const searchParams = useNextSearchParams();
-  const search = searchParams && searchParams.toString() ? `?${searchParams.toString()}` : "";
+  const search =
+    typeof window !== "undefined" && window.location.search
+      ? window.location.search
+      : "";
   const hash = typeof window !== "undefined" ? window.location.hash : "";
   return { pathname, search, hash };
 };
@@ -51,9 +52,16 @@ export const useParams = <T extends Record<string, string | string[] | undefined
 };
 
 export const useSearchParams = () => {
-  const params = useNextSearchParams();
-  const router = useRouter();
   const pathname = usePathname() ?? "/";
+  const [params, setParamsState] = useState(
+    () => new URLSearchParams(typeof window !== "undefined" ? window.location.search : ""),
+  );
+  const router = useRouter();
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    setParamsState(new URLSearchParams(window.location.search));
+  }, [pathname]);
 
   const setSearchParams = useCallback((
     next: URLSearchParams | Record<string, string | number | undefined>,

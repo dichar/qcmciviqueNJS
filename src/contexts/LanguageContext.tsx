@@ -65,8 +65,8 @@ export const LanguageProvider = ({ children }: LanguageProviderProps) => {
 
   // Translation function with fallback to French, then key
   const t = (key: string): string => {
-    const currentTranslations = translations[language] || translations.fr;
-    const frTranslations = translations.fr;
+    const currentTranslations = (translations[language] || translations.fr) as Record<string, string>;
+    const frTranslations = translations.fr as Record<string, string>;
     
     // Try current language first
     if (currentTranslations[key]) {

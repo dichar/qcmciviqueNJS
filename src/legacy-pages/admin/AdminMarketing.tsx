@@ -47,7 +47,7 @@ interface Campaign {
   failed_count: number;
   is_test: boolean;
   status: string;
-  sent_at: string;
+  sent_at: string | null;
 }
 
 const AdminMarketing = () => {

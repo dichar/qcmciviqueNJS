@@ -171,7 +171,7 @@ const ExamCenters = () => {
     return R * c;
   };
 
-  const nearestCenter = useMemo(() => {
+  const nearestCenter = useMemo<{ center: ExamCenter; distance: number } | null>(() => {
     if (!userLocation) return null;
     let closest: { center: ExamCenter; distance: number } | null = null;
     filteredCenters.forEach((center) => {

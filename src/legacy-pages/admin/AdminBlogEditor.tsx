@@ -84,7 +84,8 @@ const defaultFormData: BlogPostForm = {
 export default function AdminBlogEditor() {
   const navigate = useNavigate();
   const { id } = useParams();
-  const isEditing = Boolean(id);
+  const postId = Array.isArray(id) ? id[0] : id;
+  const isEditing = Boolean(postId);
   
   const [formData, setFormData] = useState<BlogPostForm>(defaultFormData);
   const [loading, setLoading] = useState(false);
@@ -92,10 +93,10 @@ export default function AdminBlogEditor() {
 
   // Load existing post if editing
   useEffect(() => {
-    if (id) {
-      loadPost(id);
+    if (postId) {
+      loadPost(postId);
     }
-  }, [id]);
+  }, [postId]);
 
   const loadPost = async (postId: string) => {
     setLoading(true);
@@ -225,11 +226,11 @@ export default function AdminBlogEditor() {
 
       let error;
 
-      if (isEditing && id) {
+      if (isEditing && postId) {
         const result = await supabase
           .from('blog_posts')
           .update(postData)
-          .eq('id', id);
+          .eq('id', postId);
         error = result.error;
       } else {
         const result = await supabase

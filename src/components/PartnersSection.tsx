@@ -4,6 +4,8 @@ import { ShieldCheck, Globe } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import xendwiseLogo from "@/assets/partners/xendwise-logo.png";
 
+const xendwiseLogoSrc = typeof xendwiseLogo === "string" ? xendwiseLogo : xendwiseLogo.src;
+
 const PartnersSection = () => {
   const { toast } = useToast();
 
@@ -44,7 +46,7 @@ const PartnersSection = () => {
               <div className="flex flex-col items-center text-center space-y-4">
                 <div className="w-full max-w-[180px] h-16 flex items-center justify-center">
                   <img
-                    src={xendwiseLogo}
+                    src={xendwiseLogoSrc}
                     alt="Xendwise - Comparateur transferts d'argent"
                     className="max-h-full max-w-full object-contain"
                   />
