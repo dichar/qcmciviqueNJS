@@ -119,6 +119,10 @@ const ServiceWorkerUpdater = () => {
   return null;
 };
 
+// Legacy SPA router types can confuse Next's build typechecking.
+// This file is not used by the App Router, so keep it out of TS build.
+export {};
+
 // Suspense wrappers
 const Legal = ({ children }: { children: React.ReactNode }) => (
   <Suspense fallback={<LegalPageSkeleton />}>{children}</Suspense>
