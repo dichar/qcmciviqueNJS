@@ -28,7 +28,6 @@ import {
   Instagram,
   Facebook
 } from "lucide-react";
-import logo from "@/assets/logo.png";
 
 // TikTok icon component (not in lucide-react)
 const TikTokIcon = ({ className }: { className?: string }) => (
@@ -106,7 +105,7 @@ export function MainHeader({ onMobileMenuToggle, isMobileMenuOpen }: MainHeaderP
 
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2 font-bold text-lg md:text-xl text-primary hover:text-primary/80 transition-colors">
-              <img src={logo} alt="QCM Civique" className="h-8 w-8" />
+              <img src="/assets/logo.png" alt="QCM Civique" className="h-8 w-8" />
               <span className="hidden sm:inline">QCM Civique</span>
             </Link>
           </div>

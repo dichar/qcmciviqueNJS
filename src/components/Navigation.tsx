@@ -9,7 +9,6 @@ import { ThemeToggle } from "@/components/ThemeToggle";
 import { cn } from "@/lib/utils";
 import { supabase } from "@/integrations/supabase/client";
 import { User as SupabaseUser } from "@supabase/supabase-js";
-import logo from "@/assets/logo.png";
 
 // TikTok icon component (not in lucide-react)
 const TikTokIcon = ({ className }: { className?: string }) => (
@@ -75,7 +74,7 @@ export const Navigation = () => {
             to="/"
             className="flex items-center gap-2 font-bold text-lg md:text-xl text-primary hover:text-primary/80 transition-colors"
           >
-            <img src={logo} alt="QCM Civique Logo" className="h-8 w-8" />
+            <img src="/assets/logo.png" alt="QCM Civique Logo" className="h-8 w-8" />
             <span>QCM Civique</span>
           </Link>
 

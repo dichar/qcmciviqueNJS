@@ -6,6 +6,13 @@ export const metadata: Metadata = {
   title: "QCM Civique - Test de Naturalisation Française",
   description:
     "Préparez-vous à l'examen civique français avec des quiz interactifs. Essai gratuit disponible.",
+  icons: {
+    icon: [
+      { url: "/favicon.ico" },
+      { url: "/favicon.png", type: "image/png" },
+    ],
+    apple: [{ url: "/pwa-192x192.png" }],
+  },
 };
 
 export default function RootLayout({
