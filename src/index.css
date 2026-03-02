@@ -1,0 +1,238 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 220 15% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 220 15% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 15% 20%;
+
+    /* French Blue - Bleu de France */
+    --primary: 220 80% 45%;
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 220 80% 38%;
+    
+    /* French Red - for accents */
+    --accent: 355 75% 52%;
+    --accent-foreground: 0 0% 100%;
+    --accent-hover: 355 75% 45%;
+
+    --secondary: 220 15% 96%;
+    --secondary-foreground: 220 15% 20%;
+
+    --muted: 220 15% 96%;
+    --muted-foreground: 220 10% 45%;
+
+    --destructive: 0 75% 52%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 15% 88%;
+    --input: 220 15% 88%;
+    --ring: 220 80% 45%;
+
+    --radius: 0.75rem;
+
+    /* Success color */
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(220 80% 45%) 0%, hsl(220 80% 55%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(220 80% 45%) 0%, hsl(220 75% 52%) 50%, hsl(355 75% 52%) 100%);
+    
+    /* Shadows */
+    --shadow-soft: 0 2px 8px -2px hsl(220 15% 20% / 0.08);
+    --shadow-medium: 0 4px 16px -4px hsl(220 15% 20% / 0.12);
+    --shadow-strong: 0 8px 32px -8px hsl(220 15% 20% / 0.16);
+    
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    /* Sidebar */
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 220 15% 20%;
+    --sidebar-primary: 220 80% 45%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 15% 96%;
+    --sidebar-accent-foreground: 220 15% 20%;
+    --sidebar-border: 220 15% 88%;
+    --sidebar-ring: 220 80% 45%;
+  }
+
+  .dark {
+    --background: 220 20% 12%;
+    --foreground: 220 15% 95%;
+
+    --card: 220 18% 16%;
+    --card-foreground: 220 15% 95%;
+
+    --popover: 220 18% 16%;
+    --popover-foreground: 220 15% 95%;
+
+    --primary: 220 80% 55%;
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 220 80% 48%;
+
+    --accent: 355 75% 58%;
+    --accent-foreground: 0 0% 100%;
+    --accent-hover: 355 75% 52%;
+
+    --secondary: 220 18% 20%;
+    --secondary-foreground: 220 15% 95%;
+
+    --muted: 220 18% 20%;
+    --muted-foreground: 220 10% 65%;
+
+    --destructive: 0 75% 52%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 18% 24%;
+    --input: 220 18% 24%;
+    --ring: 220 80% 55%;
+
+    --success: 142 76% 40%;
+    --success-foreground: 0 0% 100%;
+
+    --shadow-soft: 0 2px 8px -2px hsl(0 0% 0% / 0.2);
+    --shadow-medium: 0 4px 16px -4px hsl(0 0% 0% / 0.3);
+    --shadow-strong: 0 8px 32px -8px hsl(0 0% 0% / 0.4);
+
+    /* Sidebar Dark */
+    --sidebar-background: 220 18% 16%;
+    --sidebar-foreground: 220 15% 95%;
+    --sidebar-primary: 220 80% 55%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 18% 20%;
+    --sidebar-accent-foreground: 220 15% 95%;
+    --sidebar-border: 220 18% 24%;
+    --sidebar-ring: 220 80% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Leaflet map custom styles */
+.custom-marker {
+  background: transparent;
+  border: none;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.leaflet-popup-content {
+  margin: 12px 14px;
+}
+
+.leaflet-popup-tip {
+  box-shadow: none;
+}
+
+.leaflet-control-zoom {
+  border: none !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+.leaflet-control-zoom a {
+  background: hsl(var(--card)) !important;
+  color: hsl(var(--foreground)) !important;
+  border: 1px solid hsl(var(--border)) !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background: hsl(var(--secondary)) !important;
+}
+
+.leaflet-control-attribution {
+  background: hsl(var(--card) / 0.9) !important;
+  font-size: 10px;
+}
+
+.dark .leaflet-layer,
+.dark .leaflet-control-zoom-in,
+.dark .leaflet-control-zoom-out,
+.dark .leaflet-control-attribution {
+  filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+}
+
+.dark .leaflet-popup-content-wrapper,
+.dark .leaflet-popup-tip {
+  background: hsl(var(--card));
+}
+
+.dark .leaflet-popup-content-wrapper {
+  color: hsl(var(--foreground));
+}
+
+/* Mobile Safe Area for bottom navigation */
+.safe-area-inset-bottom {
+  padding-bottom: max(12px, env(safe-area-inset-bottom));
+}
+
+/* Image optimization - all images lazy load by default */
+img {
+  content-visibility: auto;
+}
+
+img[loading="lazy"] {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+img[loading="lazy"].loaded,
+img[loading="lazy"]:not([src=""]) {
+  opacity: 1;
+}
+
+/* Skeleton loading for lazy images */
+.img-skeleton {
+  background: linear-gradient(
+    90deg,
+    hsl(var(--muted)) 25%,
+    hsl(var(--secondary)) 50%,
+    hsl(var(--muted)) 75%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* Performance: reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

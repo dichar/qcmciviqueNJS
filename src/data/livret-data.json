@@ -1,0 +1,1059 @@
+{
+	"app_info": {
+		"title": "Livret du Citoyen Interactif",
+		"description": "Préparation à l'entretien de naturalisation française",
+		"version": "1.0",
+		"total_sections": 19,
+		"total_faq": 10,
+		"total_interview_questions": 10,
+		"color_primary": "#f97415"
+	},
+	"sections": [
+		{
+			"id": 1,
+			"page": 1,
+			"theme": "valeurs",
+			"titre": "La Liberté d'Expression",
+			"contenuOriginal": "Avez-vous le droit de tout dire, de tout exprimer publiquement ? Oui, la liberté d'expression est un droit fondamental. Cependant, elle a des limites, pour respecter les droits des autres. Il est ainsi interdit de diffuser des injures, des propos diffamatoires, des provocations à la haine, ou de faire l'apologie de crimes contre l'humanité.",
+			"explication": "La liberté d'expression est un droit fondamental qui permet à chaque citoyen de dire ce qu'il pense, d'exprimer ses opinions sans crainte de représailles de la part de l'État. C'est un pilier de la démocratie car elle permet le débat public, l'échange d'idées et la critique constructive.",
+			"simplification": "Tu peux dire ce que tu penses MAIS pas n'importe quoi. Tu ne peux pas insulter les gens, les diffamer, ou appeler à la violence. C'est équilibrer ta liberté avec le respect des autres.",
+			"exempleConcret": "Exemple 1 : Tu peux critiquer le gouvernement sur les réseaux sociaux (liberté). Exemple 2 : Tu ne peux pas poster des messages appelant à frapper quelqu'un (interdit). Exemple 3 : Tu ne peux pas inventer des mensonges sur quelqu'un pour le faire perdre son travail (diffamation).",
+			"questionsEntretien": [
+				"Expliquez ce qu'est la liberté d'expression en France.",
+				"Quelles sont les limites de la liberté d'expression ?",
+				"Est-il autorisé de critiquer le gouvernement en France ?",
+				"Qu'est-ce que la diffamation et pourquoi c'est interdit ?",
+				"Donnez un exemple de propos qui ne serait pas protégé par la liberté d'expression."
+			],
+			"quiz": [
+				{
+					"id": "1-1",
+					"type": "qcm",
+					"question": "La liberté d'expression en France est-elle absolue ?",
+					"reponses": [
+						{"texte": "Oui, tu peux dire absolument n'importe quoi", "correct": false},
+						{"texte": "Non, elle a des limites pour respecter les droits des autres", "correct": true},
+						{"texte": "Cela dépend de ton statut social", "correct": false}
+					],
+					"explication": "La liberté d'expression a des limites légales pour protéger les droits d'autrui (respect, dignité, sécurité)."
+				},
+				{
+					"id": "1-2",
+					"type": "vrai-faux",
+					"question": "Il est interdit de diffamer quelqu'un en ligne en France.",
+					"reponse": true,
+					"explication": "Vrai. La diffamation (inventer des mensonges dommageables) est pénalisée par la loi française."
+				},
+				{
+					"id": "1-3",
+					"type": "qcm",
+					"question": "Lequel de ces actes est AUTORISÉ par la liberté d'expression ?",
+					"reponses": [
+						{"texte": "Appeler à la haine contre une religion", "correct": false},
+						{"texte": "Critiquer les politiques publiques du gouvernement", "correct": true},
+						{"texte": "Insulter publiquement quelqu'un", "correct": false}
+					],
+					"explication": "La critique constructive et l'expression d'opinion politique sont protégées. L'appel à la haine et les insultes ne le sont pas."
+				}
+			]
+		},
+		{
+			"id": 2,
+			"page": 2,
+			"theme": "valeurs",
+			"titre": "La Démocratie",
+			"contenuOriginal": "La France est une démocratie. Le Président de la République, les parlementaires, les maires, sont élus au suffrage universel cela signifie que tous les citoyens, hommes et femmes ayant au moins 18 ans et disposant de leurs droits civils et politiques, ont le droit de voter et de se présenter aux élections dans les conditions fixées par la loi.",
+			"explication": "La démocratie est un système de gouvernement où le pouvoir appartient au peuple. En France, c'est une démocratie représentative : les citoyens élisent des représentants (Président, députés, maires) qui prennent les décisions en leur nom. Le suffrage universel signifie que TOUS les citoyens adultes ont le droit de vote.",
+			"simplification": "En France, le peuple élit ses dirigeants. Chaque citoyen majeur (18 ans) peut voter et se présenter aux élections. C'est pas un roi qui décide : c'est les gens.",
+			"exempleConcret": "Exemple 1 : Lors de l'élection présidentielle, tu votes pour choisir le Président. Exemple 2 : Aux élections municipales, tu votes pour ton maire local. Exemple 3 : Tu peux toi-même te présenter candidat si tu as 18 ans et les droits civils.",
+			"questionsEntretien": [
+				"Qu'est-ce qu'une démocratie ?",
+				"En France, qui élit le Président de la République ?",
+				"À quel âge peut-on voter en France ?",
+				"Qu'est-ce que le suffrage universel ?",
+				"Décrivez le système électoral français pour les différents niveaux de pouvoir."
+			],
+			"quiz": [
+				{
+					"id": "2-1",
+					"type": "qcm",
+					"question": "En France, le Président est élu par :",
+					"reponses": [
+						{"texte": "Le Parlement", "correct": false},
+						{"texte": "Le suffrage universel (tous les citoyens)", "correct": true},
+						{"texte": "L'armée", "correct": false}
+					],
+					"explication": "Le Président français est élu au suffrage universel direct depuis 1962. Chaque citoyen majeur vote."
+				},
+				{
+					"id": "2-2",
+					"type": "vrai-faux",
+					"question": "Un citoyen français de 17 ans peut voter aux élections.",
+					"reponse": false,
+					"explication": "Faux. L'âge minimum pour voter en France est 18 ans."
+				},
+				{
+					"id": "2-3",
+					"type": "qcm",
+					"question": "Quel est le fondement du système politique français ?",
+					"reponses": [
+						{"texte": "La monarchie absolue", "correct": false},
+						{"texte": "La démocratie représentative et le suffrage universel", "correct": true},
+						{"texte": "La dictature militaire", "correct": false}
+					],
+					"explication": "La France est une démocratie où le peuple exerce le pouvoir via des représentants élus."
+				}
+			]
+		},
+		{
+			"id": 3,
+			"page": 3,
+			"theme": "valeurs",
+			"titre": "Égalité entre Femmes et Hommes",
+			"contenuOriginal": "L'administration peut-elle refuser la nationalité française à une personne ne respectant pas l'égalité femmes-hommes ? Oui, même si cette personne est mariée avec une Française. L'égalité entre les femmes et les hommes fait partie des valeurs essentielles de la République. L'adhésion à ces valeurs est évaluée au cours de l'entretien réglementaire. Tous les citoyens ont les mêmes droits et les mêmes devoirs quel que soit leur sexe, leur origine, leur religion, leurs opinions ou leur orientation sexuelle.",
+			"explication": "L'égalité femmes-hommes est une valeur constitutionnelle française. Elle signifie que les femmes et les hommes ont exactement les mêmes droits légaux, les mêmes chances d'accès à l'emploi, l'éducation, et les mêmes devoirs civiques. Les discriminations basées sur le sexe sont interdites et punissables.",
+			"simplification": "Femmes = Hommes devant la loi. Même droits, mêmes devoirs, mêmes opportunités. C'est pas négociable en France. Le gouvernement peut refuser ta nationalité si tu refuses cette égalité.",
+			"exempleConcret": "Exemple 1 : Une femme peut voter, travailler, diriger une entreprise comme un homme. Exemple 2 : Un employeur ne peut pas refuser d'embaucher une femme parce qu'elle est femme. Exemple 3 : Les salaires doivent être égaux pour un même travail.",
+			"questionsEntretien": [
+				"Qu'est-ce que l'égalité femmes-hommes signifie en France ?",
+				"L'égalité entre les sexes est-elle une valeur optionnelle en France ?",
+				"Donnez des exemples de droits égaux pour les femmes et les hommes.",
+				"La France peut-elle refuser la naturalisation à quelqu'un qui refuse l'égalité H/F ?",
+				"Qu'est-ce que la discrimination basée sur le sexe ?"
+			],
+			"quiz": [
+				{
+					"id": "3-1",
+					"type": "vrai-faux",
+					"question": "L'égalité entre femmes et hommes est une valeur optionnelle en France.",
+					"reponse": false,
+					"explication": "Faux. C'est une valeur ESSENTIELLE de la République française. Le gouvernement peut refuser la naturalisation si tu ne l'acceptes pas."
+				},
+				{
+					"id": "3-2",
+					"type": "qcm",
+					"question": "Un employeur peut-il refuser d'embaucher une femme pour un poste ?",
+					"reponses": [
+						{"texte": "Oui, si le poste est 'pour les hommes'", "correct": false},
+						{"texte": "Non, c'est une discrimination sexuelle interdite", "correct": true},
+						{"texte": "Cela dépend du secteur d'activité", "correct": false}
+					],
+					"explication": "La discrimination sexuelle en matière d'emploi est strictement interdite par la loi française."
+				},
+				{
+					"id": "3-3",
+					"type": "qcm",
+					"question": "Les femmes et les hommes ont-ils les mêmes devoirs civiques (impôts, respect de la loi) ?",
+					"reponses": [
+						{"texte": "Non, les femmes ont moins de devoirs", "correct": false},
+						{"texte": "Oui, exactement les mêmes devoirs", "correct": true},
+						{"texte": "Cela dépend de la région", "correct": false}
+					],
+					"explication": "L'égalité signifie aussi que femmes et hommes ont les mêmes devoirs légaux et civiques."
+				}
+			]
+		},
+		{
+			"id": 4,
+			"page": 4,
+			"theme": "valeurs",
+			"titre": "La Fraternité et la Solidarité",
+			"contenuOriginal": "La France est fondée sur la volonté de vivre ensemble des citoyens français. Cette volonté se traduit par la solidarité entre les citoyens. Depuis 1945, le système de sécurité sociale, financé par les cotisations sociales versées en France par les employeurs, les salariés et les non-salariés, ainsi que les impôts, est une illustration de ce principe de fraternité.",
+			"explication": "La fraternité est le 3e pilier de la devise française avec liberté et égalité. Elle signifie que les Français s'engagent à vivre ensemble et à s'entraider. Le système de sécurité sociale en est la manifestation concrète : chacun contribue selon ses moyens, et tous ont accès à la santé, l'éducation, l'aide sociale.",
+			"simplification": "Fraternité = on s'aide mutuellement. En France, c'est pas chacun pour soi. La sécu, c'est l'exemple parfait : les travailleurs paient, et tout le monde a accès aux soins.",
+			"exempleConcret": "Exemple 1 : Même si tu es pauvre, tu as accès à l'hôpital (sécurité sociale). Exemple 2 : Si tu es au chômage, tu reçois une aide. Exemple 3 : L'école publique est gratuite pour tous (riches et pauvres).",
+			"questionsEntretien": [
+				"Expliquez le principe de fraternité dans la République française.",
+				"Qu'est-ce que la solidarité en France ?",
+				"Comment la sécurité sociale illustre-t-elle la fraternité ?",
+				"Qui finance le système de protection sociale en France ?",
+				"Décrivez un exemple concret de solidarité dans la vie quotidienne française."
+			],
+			"quiz": [
+				{
+					"id": "4-1",
+					"type": "qcm",
+					"question": "Depuis quel moment la fraternité se concrétise-t-elle en France par un système de protection sociale ?",
+					"reponses": [
+						{"texte": "1789 (Révolution)", "correct": false},
+						{"texte": "1945", "correct": true},
+						{"texte": "1995", "correct": false}
+					],
+					"explication": "La sécurité sociale française date de 1945, concrétisant le principe de fraternité."
+				},
+				{
+					"id": "4-2",
+					"type": "vrai-faux",
+					"question": "La sécurité sociale française est financée uniquement par l'État.",
+					"reponse": false,
+					"explication": "Faux. Elle est financée par les cotisations des employeurs, salariés, non-salariés ET par les impôts."
+				},
+				{
+					"id": "4-3",
+					"type": "qcm",
+					"question": "Quel est le principe fondamental derrière la solidarité française ?",
+					"reponses": [
+						{"texte": "Chacun pour soi", "correct": false},
+						{"texte": "Vivre ensemble et s'entraider", "correct": true},
+						{"texte": "Compétition économique totale", "correct": false}
+					],
+					"explication": "La solidarité repose sur le vivre ensemble et l'entraide mutuelle entre citoyens."
+				}
+			]
+		},
+		{
+			"id": 5,
+			"page": 5,
+			"theme": "valeurs",
+			"titre": "La Laïcité",
+			"contenuOriginal": "La laïcité est un principe fondamental de la République. Elle signifie que les affaires religieuses et les affaires publiques sont clairement séparées. Ce principe est ancien il est consacré par la loi de 1905 qui sépare les églises de l'état. Mais pour préserver l'ordre public, l'État peut restreindre le droit de manifester sa religion en public en vertu du principe selon lequel il est interdit à quiconque de se prévaloir de ses croyances religieuses pour s'affranchir des règles communes régissant les relations entre collectivités publiques et particuliers.",
+			"explication": "La laïcité est le principe que l'État ne se mêle pas des affaires religieuses, et inversement. Cela signifie : 1) L'État ne favorise aucune religion, 2) L'État ne finance pas les églises, 3) L'État peut imposer des règles communes (ex: pas de symboles religieux ostensibles à l'école) pour préserver la neutralité et l'ordre public.",
+			"simplification": "Laïcité = l'État et la religion sont séparés. L'État n'impose pas une religion, mais il peut dire 'à l'école, pas de symboles religieux visibles'. C'est pour que tout le monde soit traité pareil.",
+			"exempleConcret": "Exemple 1 : L'État finance l'école publique mais pas les églises. Exemple 2 : À l'école, les élèves ne peuvent pas porter des voiles, croix, kippa trop visibles. Exemple 3 : Tu es libre de croire ce que tu veux, mais tu ne peux pas l'imposer aux autres dans l'espace public.",
+			"questionsEntretien": [
+				"Définissez la laïcité en France.",
+				"Depuis quand la laïcité est-elle un principe légal en France ?",
+				"Pourquoi les signes religieux ostensibles sont-ils interdits à l'école ?",
+				"La laïcité signifie-t-elle que tu ne peux pas avoir une religion ?",
+				"Donnez des exemples de la séparation entre l'État et la religion en France."
+			],
+			"quiz": [
+				{
+					"id": "5-1",
+					"type": "vrai-faux",
+					"question": "La laïcité signifie que tu n'as pas le droit d'avoir une religion en France.",
+					"reponse": false,
+					"explication": "Faux. La laïcité sépare l'État et la religion. Tu es libre de croire ce que tu veux DANS ta vie privée, mais l'État reste neutre."
+				},
+				{
+					"id": "5-2",
+					"type": "qcm",
+					"question": "Quelle loi a établi la séparation de l'Église et de l'État en France ?",
+					"reponses": [
+						{"texte": "Loi de 1789", "correct": false},
+						{"texte": "Loi de 1905", "correct": true},
+						{"texte": "Loi de 1945", "correct": false}
+					],
+					"explication": "La loi de 1905 sépare officiellement les Églises de l'État français."
+				},
+				{
+					"id": "5-3",
+					"type": "qcm",
+					"question": "Pourquoi les signes religieux ostensibles sont-ils interdits à l'école ?",
+					"reponses": [
+						{"texte": "Pour interdire toute religion", "correct": false},
+						{"texte": "Pour protéger la neutralité et éviter les pressions sur les mineurs", "correct": true},
+						{"texte": "Parce que la France est athée", "correct": false}
+					],
+					"explication": "L'interdiction protège les enfants des pressions et maintient la neutralité de l'école publique."
+				}
+			]
+		},
+		{
+			"id": 6,
+			"page": 6,
+			"theme": "institutions",
+			"titre": "Séparation des Pouvoirs",
+			"contenuOriginal": "La France est une démocratie et un état de droit. Son principe est le Gouvernement du peuple, par le peuple et pour le peuple. Le pouvoir politique est soumis à la loi, c'est-à-dire qu'il doit fonctionner selon des règles prévues par la Constitution et la loi. Les lois traitent tous les citoyens de façon égale. L'indépendance de la justice est garantie. Nos institutions sont fondées sur la séparation des pouvoirs exécutif et législatif et de l'autorité judiciaire ces pouvoirs et la Justice ne doivent pas être exercés par la même autorité.",
+			"explication": "La France fonctionne selon le principe de la séparation des pouvoirs : 1) Pouvoir EXÉCUTIF = Président + Gouvernement (appliquent les lois), 2) Pouvoir LÉGISLATIF = Parlement (créent les lois), 3) Pouvoir JUDICIAIRE = Juges (jugent les conflits). Aucun pouvoir ne doit dominer les autres. C'est un système d'équilibre et de contrôle.",
+			"simplification": "En France, le pouvoir est divisé en 3 parties : le gouvernement qui gouverne, le parlement qui fait les lois, et les juges qui jugent. Personne ne fait tout : c'est pour éviter la dictature.",
+			"exempleConcret": "Exemple 1 : Le Président ne peut pas créer des lois tout seul (c'est le Parlement). Exemple 2 : Le Parlement ne peut pas juger quelqu'un (c'est les juges). Exemple 3 : Un ministre ne peut pas arrêter quelqu'un sans procès (c'est la justice).",
+			"questionsEntretien": [
+				"Expliquez la séparation des pouvoirs en France.",
+				"Qui exerce le pouvoir exécutif ?",
+				"Qui exerce le pouvoir législatif ?",
+				"Pourquoi la séparation des pouvoirs est-elle importante ?",
+				"Comment cette séparation protège-t-elle la démocratie ?"
+			],
+			"quiz": [
+				{
+					"id": "6-1",
+					"type": "qcm",
+					"question": "Le Parlement exerce quel pouvoir ?",
+					"reponses": [
+						{"texte": "Le pouvoir exécutif", "correct": false},
+						{"texte": "Le pouvoir législatif", "correct": true},
+						{"texte": "Le pouvoir judiciaire", "correct": false}
+					],
+					"explication": "Le Parlement vote les lois : c'est le pouvoir législatif."
+				},
+				{
+					"id": "6-2",
+					"type": "vrai-faux",
+					"question": "Le Président peut créer des lois sans le Parlement en France.",
+					"reponse": false,
+					"explication": "Faux. Le pouvoir exécutif (Président) et législatif (Parlement) sont séparés."
+				},
+				{
+					"id": "6-3",
+					"type": "qcm",
+					"question": "Quel est l'objectif principal de la séparation des pouvoirs ?",
+					"reponses": [
+						{"texte": "Créer de la lenteur administrative", "correct": false},
+						{"texte": "Éviter la concentration du pouvoir et protéger la démocratie", "correct": true},
+						{"texte": "Augmenter les impôts", "correct": false}
+					],
+					"explication": "La séparation des pouvoirs évite qu'une seule personne ou institution accumule trop de pouvoir."
+				}
+			]
+		},
+		{
+			"id": 7,
+			"page": 7,
+			"theme": "institutions",
+			"titre": "Président de la République",
+			"contenuOriginal": "Le Président de la République est élu au suffrage universel pour cinq ans. Il nomme le Gouvernement, dirigé par le Premier ministre, issu de la majorité aux élections législatives.",
+			"explication": "Le Président est le chef de l'État français. Il est élu directement par tous les citoyens pour 5 ans (mandat renouvelable une fois). Ses responsabilités incluent : nommer le Premier ministre, diriger l'armée, représenter la France à l'international. Le Premier ministre vient du parti qui a gagné les élections législatives.",
+			"simplification": "Le Président = chef de l'État. Tout le monde vote pour lui. Il dirige le pays avec un Premier ministre. Mandat = 5 ans.",
+			"exempleConcret": "Exemple 1 : Emmanuel Macron a été élu Président par tous les Français. Exemple 2 : Le Président nomme son Premier ministre. Exemple 3 : Si un parti nouveau gagne les élections, son chef devient Premier ministre.",
+			"questionsEntretien": [
+				"Qui est le Président de la République en France et comment est-il élu ?",
+				"Quel est le mandat du Président ?",
+				"Quels sont les pouvoirs et responsabilités du Président ?",
+				"Qui est le Premier ministre et d'où vient-il ?",
+				"Le Président peut-il être réélu indéfiniment ?"
+			],
+			"quiz": [
+				{
+					"id": "7-1",
+					"type": "qcm",
+					"question": "Combien de temps dure le mandat du Président français ?",
+					"reponses": [
+						{"texte": "3 ans", "correct": false},
+						{"texte": "5 ans", "correct": true},
+						{"texte": "7 ans", "correct": false}
+					],
+					"explication": "Le Président français est élu pour 5 ans (mandat depuis 2000)."
+				},
+				{
+					"id": "7-2",
+					"type": "vrai-faux",
+					"question": "Le Président peut créer les lois directement sans le Parlement.",
+					"reponse": false,
+					"explication": "Faux. Le Président doit travailler avec le Parlement pour créer les lois."
+				},
+				{
+					"id": "7-3",
+					"type": "qcm",
+					"question": "D'où vient le Premier ministre ?",
+					"reponses": [
+						{"texte": "Il est nommé par le Président parmi le parti majoritaire", "correct": true},
+						{"texte": "Il est élu directement par le peuple", "correct": false},
+						{"texte": "Il est désigné par le Parlement seul", "correct": false}
+					],
+					"explication": "Le Premier ministre est nommé par le Président et vient généralement du parti vainqueur des élections législatives."
+				}
+			]
+		},
+		{
+			"id": 8,
+			"page": 8,
+			"theme": "institutions",
+			"titre": "Le Parlement",
+			"contenuOriginal": "Le Parlement, composé de l'Assemblée nationale et du Sénat, vote les lois et contrôle le Gouvernement. Les députés à l'Assemblée nationale sont élus tous les cinq ans lors des élections législatives. Les sénateurs sont élus au suffrage universel indirect pour un mandat de 6 ans.",
+			"explication": "Le Parlement est le pouvoir législatif français. Il a 2 chambres : 1) ASSEMBLÉE NATIONALE = 577 députés élus par tous les citoyens pour 5 ans, 2) SÉNAT = 348 sénateurs élus indirectement (par d'autres élus) pour 6 ans. Le Parlement vote les lois, approuve le budget, et contrôle le Gouvernement.",
+			"simplification": "Parlement = 2 chambres qui font les lois. Assemblée = 577 députés votés par le peuple. Sénat = 348 sénateurs votés indirectement. Ils contrôlent aussi le gouvernement.",
+			"exempleConcret": "Exemple 1 : Pour créer une nouvelle loi, elle doit passer par l'Assemblée ET le Sénat. Exemple 2 : Si le Gouvernement ne fait pas son travail, le Parlement peut le critiquer. Exemple 3 : Le budget national doit être approuvé par le Parlement.",
+			"questionsEntretien": [
+				"De quoi est composé le Parlement français ?",
+				"Quel est le rôle du Parlement ?",
+				"Comment sont élus les députés et pour combien de temps ?",
+				"Expliquez le système de l'Assemblée nationale et du Sénat.",
+				"Comment le Parlement contrôle-t-il le Gouvernement ?"
+			],
+			"quiz": [
+				{
+					"id": "8-1",
+					"type": "qcm",
+					"question": "Le Parlement français est composé de :",
+					"reponses": [
+						{"texte": "L'Assemblée nationale seulement", "correct": false},
+						{"texte": "L'Assemblée nationale et du Sénat", "correct": true},
+						{"texte": "Du Gouvernement et de la Justice", "correct": false}
+					],
+					"explication": "Le Parlement français a 2 chambres : l'Assemblée nationale et le Sénat."
+				},
+				{
+					"id": "8-2",
+					"type": "vrai-faux",
+					"question": "Les sénateurs français sont élus directement par tous les citoyens.",
+					"reponse": false,
+					"explication": "Faux. Les sénateurs sont élus indirectement par d'autres élus."
+				},
+				{
+					"id": "8-3",
+					"type": "qcm",
+					"question": "Combien de députés y a-t-il à l'Assemblée nationale française ?",
+					"reponses": [
+						{"texte": "300", "correct": false},
+						{"texte": "577", "correct": true},
+						{"texte": "1000", "correct": false}
+					],
+					"explication": "L'Assemblée nationale compte 577 députés."
+				}
+			]
+		},
+		{
+			"id": 9,
+			"page": 9,
+			"theme": "institutions",
+			"titre": "La Justice",
+			"contenuOriginal": "La justice est rendue par les juges. Elle règle les litiges entre les particuliers ou les entreprises, et entre les citoyens et l'administration. Elle sanctionne les infractions aux règles de droit par des peines prévues par la loi ex. emprisonnement, amende ou les textes réglementaires.",
+			"explication": "La justice française est indépendante et impartiale. Elle a plusieurs fonctions : 1) CIVILE = régler les conflits entre particuliers (divorces, héritages), 2) PÉNALE = punir les crimes et délits (vols, violences), 3) ADMINISTRATIVE = régler les conflits avec l'État. Les juges appliquent la loi et doivent justifier leurs décisions.",
+			"simplification": "Justice = juges règlent les problèmes. Ils peuvent juger entre toi et quelqu'un d'autre (civil), ou si tu as fait un crime (pénal), ou si l'État t'a traité injustement (administratif). Punition = emprisonnement ou amende.",
+			"exempleConcret": "Exemple 1 : Divorce = justice civile. Exemple 2 : Vol à l'étalage = justice pénale, tu peux être amandé ou emprisonné. Exemple 3 : L'État refuse ton permis sans raison = tu peux le contester devant la justice administrative.",
+			"questionsEntretien": [
+				"Quel est le rôle de la justice en France ?",
+				"Nommez les 3 types de justice en France.",
+				"Comment la justice est-elle indépendante ?",
+				"Quelles sont les peines possibles en France ?",
+				"Donnez un exemple de cas civil, pénal et administratif."
+			],
+			"quiz": [
+				{
+					"id": "9-1",
+					"type": "qcm",
+					"question": "Quel type de justice gère les divorces ?",
+					"reponses": [
+						{"texte": "Justice pénale", "correct": false},
+						{"texte": "Justice civile", "correct": true},
+						{"texte": "Justice administrative", "correct": false}
+					],
+					"explication": "Les divorces sont gérés par la justice civile."
+				},
+				{
+					"id": "9-2",
+					"type": "vrai-faux",
+					"question": "Un juge peut ignorer la loi et faire ce qu'il veut.",
+					"reponse": false,
+					"explication": "Faux. Les juges doivent appliquer la loi et justifier leurs décisions. Ils ne sont pas au-dessus de la loi."
+				},
+				{
+					"id": "9-3",
+					"type": "qcm",
+					"question": "Quelles sont les peines possibles pour un crime en France ?",
+					"reponses": [
+						{"texte": "Seulement une amende", "correct": false},
+						{"texte": "Emprisonnement, amende, ou combinaison", "correct": true},
+						{"texte": "Aucune peine n'existe", "correct": false}
+					],
+					"explication": "La loi française prévoit plusieurs types de peines selon le crime."
+				}
+			]
+		},
+		{
+			"id": 10,
+			"page": 10,
+			"theme": "institutions",
+			"titre": "Collectivités Locales",
+			"contenuOriginal": "Au niveau local, trois collectivités exercent des compétences en application des lois de décentralisation. La commune, le département, la région. La commune : La France compte 34 965 communes au 1er janvier 2021. Elles sont administrées par un maire et un conseil municipal. Elles sont responsables, notamment, des écoles maternelles et primaires, des activités sportives et culturelles, de l'entretien de la voierie communale.",
+			"explication": "La France a une administration décentralisée avec 3 niveaux de collectivités locales : 1) COMMUNES = plus petits niveaux, dirigées par un maire et conseil municipal, gèrent l'école primaire, services locaux, 2) DÉPARTEMENTS = niveau intermédiaire, gèrent l'aide sociale et l'éducation secondaire, 3) RÉGIONS = plus grand niveau, gèrent formation pro et transport régional.",
+			"simplification": "Collectivités = gouvernements locaux. Commune = ta ville avec un maire. Département = regroupement de communes. Région = plusieurs départements. Chacun fait sa part : école locale c'est la commune, collège c'est le département, lycée c'est la région.",
+			"exempleConcret": "Exemple 1 : Ton école maternelle = commune. Exemple 2 : Ton collège = département. Exemple 3 : Ton lycée = région. Exemple 4 : Un pot de fleur dans la rue = commune.",
+			"questionsEntretien": [
+				"Décrivez les 3 niveaux de collectivités locales en France.",
+				"Qui administre une commune et quelles sont ses responsabilités ?",
+				"Qu'est-ce qu'un département et quels services gère-t-il ?",
+				"Quel est le rôle d'une région ?",
+				"Comment les collectivités locales travaillent-elles ensemble ?"
+			],
+			"quiz": [
+				{
+					"id": "10-1",
+					"type": "qcm",
+					"question": "Qui est à la tête d'une commune ?",
+					"reponses": [
+						{"texte": "Un gouverneur", "correct": false},
+						{"texte": "Un préfet", "correct": false},
+						{"texte": "Un maire", "correct": true}
+					],
+					"explication": "Chaque commune est dirigée par un maire élu."
+				},
+				{
+					"id": "10-2",
+					"type": "vrai-faux",
+					"question": "La région gère les écoles maternelles.",
+					"reponse": false,
+					"explication": "Faux. C'est la commune qui gère les écoles maternelles et primaires."
+				},
+				{
+					"id": "10-3",
+					"type": "qcm",
+					"question": "Quel niveau de collectivité gère les lycées ?",
+					"reponses": [
+						{"texte": "La commune", "correct": false},
+						{"texte": "Le département", "correct": false},
+						{"texte": "La région", "correct": true}
+					],
+					"explication": "Les régions gèrent la construction et l'entretien des lycées."
+				}
+			]
+		},
+		{
+			"id": 11,
+			"page": 11,
+			"theme": "histoire",
+			"titre": "Préhistoire et Antiquité",
+			"contenuOriginal": "La grotte de Lascaux entre 18 000 et 15 000 av. J.-C. A partir des années 50 av. J.-C., l'installation des Romains a eu une influence durable car les populations locales adoptent leur mode de vie et la culture latine.",
+			"explication": "La France actuelle a des racines très anciennes. Avant l'histoire écrite, des hommes préhistoriques vivaient en France (grotte de Lascaux). Puis les Romains arrivent et colonisent la Gaule (région de l'actuelle France). Ils imposent leur langue (latin), leur culture, leur système administratif. C'est pour cela que le français vient du latin.",
+			"simplification": "Les humains vivaient déjà en France 18 000 ans avant Jésus-Christ (préhistoire). Les Romains arrivent et colonisent. La France d'aujourd'hui hérite beaucoup des Romains (langue, culture, lois).",
+			"exempleConcret": "Exemple 1 : Grotte de Lascaux = preuve que des hommes préhistoriques vivaient en France. Exemple 2 : Amphithéâtre romain d'Arles = reste romain encore visible. Exemple 3 : Le français vient du latin romain.",
+			"questionsEntretien": [
+				"Quels sont les indices de la présence humaine préhistorique en France ?",
+				"Quand les Romains ont-ils colonisé la Gaule ?",
+				"Quel impact les Romains ont-ils eu sur la France actuelle ?",
+				"Pourquoi le français vient-il du latin ?",
+				"Décrivez l'héritage romain en France aujourd'hui."
+			],
+			"quiz": [
+				{
+					"id": "11-1",
+					"type": "qcm",
+					"question": "La grotte de Lascaux date d'environ :",
+					"reponses": [
+						{"texte": "5 000 ans avant Jésus-Christ", "correct": false},
+						{"texte": "18 000 à 15 000 ans avant Jésus-Christ", "correct": true},
+						{"texte": "2 000 ans avant Jésus-Christ", "correct": false}
+					],
+					"explication": "Lascaux est une grotte préhistorique datant de 18 000 à 15 000 av. J.-C."
+				},
+				{
+					"id": "11-2",
+					"type": "vrai-faux",
+					"question": "Le français vient directement de la langue romaine (latin).",
+					"reponse": true,
+					"explication": "Vrai. Le français est une langue romane évoluée du latin."
+				},
+				{
+					"id": "11-3",
+					"type": "qcm",
+					"question": "Quel peuple a colonisé la Gaule et imposé sa culture ?",
+					"reponses": [
+						{"texte": "Les Grecs", "correct": false},
+						{"texte": "Les Romains", "correct": true},
+						{"texte": "Les Arabes", "correct": false}
+					],
+					"explication": "Les Romains se sont installés en Gaule à partir de 50 av. J.-C."
+				}
+			]
+		},
+		{
+			"id": 12,
+			"page": 12,
+			"theme": "histoire",
+			"titre": "Moyen-Âge",
+			"contenuOriginal": "Clovis 466-511 unifie les royaumes de différents peuples francs. C'est une étape importante dans la construction de l'unité du territoire français. Il adopte la religion chrétienne. Jeanne d'Arc 1412-1431. Pendant la guerre de Cent-Ans contre l'Angleterre, cette jeune paysanne conduit les troupes françaises à la libération d'une partie du territoire français. Cette héroïne nationale incarne le courage au service de la France.",
+			"explication": "Le Moyen-Âge en France est marqué par deux figures : 1) CLOVIS (466-511) = premier roi à unifier les différents peuples francs sous une seule couronne. Il adopte le christianisme et crée ainsi la base de la France. 2) JEANNE D'ARC (1412-1431) = héroïne nationale qui a mené l'armée française contre les Anglais pendant la Guerre de 100 ans. Elle symbolise le patriotisme français.",
+			"simplification": "Clovis = 1er roi qui unit tous les peuples francs, fait du christianisme la religion officielle. Jeanne d'Arc = jeune fille qui sauve la France contre les Anglais, devient héroïne nationale symbolisant le courage.",
+			"exempleConcret": "Exemple 1 : Clovis = fondateur de la France unie (avant c'était plusieurs royaumes séparés). Exemple 2 : Jeanne d'Arc = elle entend des voix, attaque les Anglais, gagne des batailles. Exemple 3 : Jeanne d'Arc est capturée, jugée et brûlée vive, mais reste symbole de France.",
+			"questionsEntretien": [
+				"Qui est Clovis et quel est son rôle historique ?",
+				"Qu'a fait Clovis pour la France ?",
+				"Qui est Jeanne d'Arc et pourquoi est-elle héroïne ?",
+				"Comment Jeanne d'Arc a-t-elle changé l'histoire de France ?",
+				"Quels symboles français Jeanne d'Arc représente-t-elle ?"
+			],
+			"quiz": [
+				{
+					"id": "12-1",
+					"type": "qcm",
+					"question": "Quel roi franc a unifié les royaumes francs ?",
+					"reponses": [
+						{"texte": "Clovis", "correct": true},
+						{"texte": "Louis XIV", "correct": false},
+						{"texte": "Charlemagne", "correct": false}
+					],
+					"explication": "Clovis (466-511) a unifié les différents peuples francs."
+				},
+				{
+					"id": "12-2",
+					"type": "vrai-faux",
+					"question": "Jeanne d'Arc était une guerrière professionnelle entraînée.",
+					"reponse": false,
+					"explication": "Faux. Jeanne d'Arc était une jeune paysanne sans entraînement militaire."
+				},
+				{
+					"id": "12-3",
+					"type": "qcm",
+					"question": "La Guerre de Cent-Ans opposa :",
+					"reponses": [
+						{"texte": "La France et l'Allemagne", "correct": false},
+						{"texte": "La France et l'Angleterre", "correct": true},
+						{"texte": "La France et l'Italie", "correct": false}
+					],
+					"explication": "Jeanne d'Arc a combattu pendant la Guerre de Cent-Ans entre France et Angleterre."
+				}
+			]
+		},
+		{
+			"id": 13,
+			"page": 13,
+			"theme": "histoire",
+			"titre": "Époque Moderne - Louis XIV",
+			"contenuOriginal": "Régne de Louis XIV 1643-1715. La France est alors dirigée par une monarchie absolue. Le roi concentre tous les pouvoirs. À cette époque, se met en place un État puissant et centralisé. La galerie des glaces du château de Versailles, dont la construction a été lancée par Louis XIV.",
+			"explication": "Louis XIV (1643-1715) est le roi le plus puissant de France. Il gouverne seul sans limite (monarchie absolue) : 'L'État c'est moi.' Il centralise le pouvoir et construit un État moderne très efficace. Il construit le Château de Versailles comme symbole de son pouvoir absolu. C'est l'apogée de la puissance française.",
+			"simplification": "Louis XIV = le roi le plus puissant de France. 'L'État c'est moi' = il a TOUS les pouvoirs sans limites. Versailles = son palais gigantesque pour montrer sa puissance. Puis après lui, la France décline.",
+			"exempleConcret": "Exemple 1 : Louis XIV décide seul de la guerre, des impôts, de la religion. Exemple 2 : Il force la noblesse à vivre à Versailles pour les contrôler. Exemple 3 : Versailles est tellement grand que le Roi avait du mal à le remplir.",
+			"questionsEntretien": [
+				"Qui est Louis XIV et quel type de gouvernement avait-il ?",
+				"Qu'est-ce qu'une monarchie absolue ?",
+				"Pourquoi Louis XIV a-t-il construit le Château de Versailles ?",
+				"Quel était le slogan de Louis XIV ?",
+				"Quel impact Louis XIV a-t-il eu sur la France et l'Europe ?"
+			],
+			"quiz": [
+				{
+					"id": "13-1",
+					"type": "qcm",
+					"question": "Combien de temps Louis XIV a-t-il régné ?",
+					"reponses": [
+						{"texte": "30 ans", "correct": false},
+						{"texte": "72 ans", "correct": true},
+						{"texte": "50 ans", "correct": false}
+					],
+					"explication": "Louis XIV a régné de 1643 à 1715, soit 72 ans."
+				},
+				{
+					"id": "13-2",
+					"type": "vrai-faux",
+					"question": "Louis XIV était un roi démocrate.",
+					"reponse": false,
+					"explication": "Faux. Louis XIV pratiquait la monarchie absolue : il avait tous les pouvoirs."
+				},
+				{
+					"id": "13-3",
+					"type": "qcm",
+					"question": "Quel château Louis XIV a-t-il fait construire pour montrer son pouvoir ?",
+					"reponses": [
+						{"texte": "Le Louvre", "correct": false},
+						{"texte": "Versailles", "correct": true},
+						{"texte": "Fontainebleau", "correct": false}
+					],
+					"explication": "Louis XIV a lancé la construction du Château de Versailles."
+				}
+			]
+		},
+		{
+			"id": 14,
+			"page": 14,
+			"theme": "histoire",
+			"titre": "Révolution Française 1789",
+			"contenuOriginal": "La Révolution française En 1789, le peuple se révolte contre la monarchie absolue. En 1792, la Ire République est proclamée. Cette période est l'origine de nos valeurs républicaines, avec la Déclaration des Droits de l'Homme et du Citoyen de 1789.",
+			"explication": "La Révolution française (1789) est LE moment fondateur de la France moderne. Le peuple se révolte contre Louis XVI et la monarchie absolue. Ils demandent liberté, égalité, fraternité. En 1789, la Déclaration des Droits de l'Homme est votée (les principes fondamentaux de tous les citoyens). En 1792, la République est proclamée. C'est l'origine de la démocratie française.",
+			"simplification": "Révolution 1789 = le peuple renverse le roi ! Les nobles perdent leurs privilèges. On crée la Déclaration des Droits de l'Homme (liberté, égalité, fraternité). La République naît. C'est la base de la France d'aujourd'hui.",
+			"exempleConcret": "Exemple 1 : 14 juillet 1789 = prise de la Bastille (prison royale), symbole de la révolte. Exemple 2 : Avant = le roi a tous les pouvoirs et les nobles ont des privilèges. Après = le peuple a des droits. Exemple 3 : La Marseillaise est composée à cette époque.",
+			"questionsEntretien": [
+				"Quand la Révolution française s'est-elle produite ?",
+				"Pourquoi le peuple s'est-il révolté ?",
+				"Qu'est-ce que la Déclaration des Droits de l'Homme ?",
+				"Quand la République a-t-elle été proclamée ?",
+				"Quels principes la Révolution française a-t-elle établis ?"
+			],
+			"quiz": [
+				{
+					"id": "14-1",
+					"type": "qcm",
+					"question": "Quel événement marque le début de la Révolution française ?",
+					"reponses": [
+						{"texte": "L'exécution du roi", "correct": false},
+						{"texte": "La prise de la Bastille (14 juillet 1789)", "correct": true},
+						{"texte": "La création de la Constitution", "correct": false}
+					],
+					"explication": "Le 14 juillet 1789, le peuple prend la Bastille, symbole de la tyrannie royale."
+				},
+				{
+					"id": "14-2",
+					"type": "vrai-faux",
+					"question": "La Déclaration des Droits de l'Homme date de 1792.",
+					"reponse": false,
+					"explication": "Faux. La Déclaration est de 1789. La République est proclamée en 1792."
+				},
+				{
+					"id": "14-3",
+					"type": "qcm",
+					"question": "Quel est le résultat PRINCIPAL de la Révolution française ?",
+					"reponses": [
+						{"texte": "Le retour du roi Louis XVI", "correct": false},
+						{"texte": "L'établissement de la démocratie et des droits humains", "correct": true},
+						{"texte": "L'augmentation du pouvoir de la noblesse", "correct": false}
+					],
+					"explication": "La Révolution a établi les principes de liberté, égalité, fraternité."
+				}
+			]
+		},
+		{
+			"id": 15,
+			"page": 15,
+			"theme": "histoire",
+			"titre": "Napoléon et le Code Civil",
+			"contenuOriginal": "Napoléon 1er 1769-1821 dirige la France pendant près de 15 ans. Il mène de nombreuses guerres en Europe. On lui doit notamment le Code civil.",
+			"explication": "Napoléon (1769-1821) est une figure clé de l'histoire française. D'abord général victorieux, il prend le pouvoir en 1799 et devient Empereur. Il gère la France efficacement. Son plus grand héritage : le CODE CIVIL (1804), un ensemble de lois claires qui s'applique à tous. Ce code influence toujours le droit français.",
+			"simplification": "Napoléon = militaire qui devient Empereur de France. Il gère bien, mais lance plein de guerres. Son héritage = le Code Civil, un livre de lois qui existe encore aujourd'hui.",
+			"exempleConcret": "Exemple 1 : Avant Napoléon, les lois changeaient d'une région à l'autre. Le Code Civil rend les lois uniformes. Exemple 2 : Le Code Civil définit le mariage, la propriété, l'héritage. Exemple 3 : Les guerres de Napoléon conquièrent beaucoup mais épuisent la France.",
+			"questionsEntretien": [
+				"Qui était Napoléon et quand a-t-il gouverné ?",
+				"Quel est le plus grand héritage de Napoléon ?",
+				"Qu'est-ce que le Code Civil ?",
+				"Comment le Code Civil a-t-il changé la France ?",
+				"Pourquoi le Code Civil est-il important aujourd'hui ?"
+			],
+			"quiz": [
+				{
+					"id": "15-1",
+					"type": "qcm",
+					"question": "Quand le Code Civil a-t-il été créé ?",
+					"reponses": [
+						{"texte": "1789", "correct": false},
+						{"texte": "1804", "correct": true},
+						{"texte": "1820", "correct": false}
+					],
+					"explication": "Le Code Civil français a été créé en 1804 sous Napoléon."
+				},
+				{
+					"id": "15-2",
+					"type": "vrai-faux",
+					"question": "Napoléon est resté au pouvoir plus de 50 ans.",
+					"reponse": false,
+					"explication": "Faux. Napoléon a gouverné environ 15 ans (de 1799 à 1815)."
+				},
+				{
+					"id": "15-3",
+					"type": "qcm",
+					"question": "Quel était l'objectif principal du Code Civil ?",
+					"reponses": [
+						{"texte": "Augmenter les guerres en Europe", "correct": false},
+						{"texte": "Unifier les lois dans toute la France", "correct": true},
+						{"texte": "Restaurer le pouvoir absolu du roi", "correct": false}
+					],
+					"explication": "Le Code Civil visait à unifier le système juridique français."
+				}
+			]
+		},
+		{
+			"id": 16,
+			"page": 16,
+			"theme": "histoire",
+			"titre": "Abolition de l'Esclavage et IIIe République",
+			"contenuOriginal": "1848 abolition de l'esclavage. Naissance de la IIIme République 1875 La forme républicaine du Gouvernement est alors établie de façon stable. Jules Ferry, ministre de l'Instruction publique au début des années 1880 est l'origine de l'enseignement public, gratuit et laïc.",
+			"explication": "Deux événements clés : 1) ABOLITION ESCLAVAGE 1848 = la France abolit l'esclavage dans ses colonies. 2) IIIe RÉPUBLIQUE 1875 = pour la 1e fois, la République devient stable et durable en France. 3) JULES FERRY (années 1880) = crée l'école publique gratuite et laïque pour TOUS, fondation de l'éducation moderne française.",
+			"simplification": "1848 = Esclavage aboli (enfin !). 1875 = la République devient stable (plus de retours au roi). 1880s = Jules Ferry crée l'école publique gratuite pour tous. Fin de l'ignorance forcée.",
+			"exempleConcret": "Exemple 1 : Avant 1848, des gens étaient esclaves. Après = libertés égales. Exemple 2 : L'école Ferry rend possible que les enfants pauvres apprennent à lire. Exemple 3 : Aujourd'hui encore, l'école est gratuite et laïque en France.",
+			"questionsEntretien": [
+				"Quand l'esclavage a-t-il été aboli en France ?",
+				"Qu'est-ce que la IIIe République ?",
+				"Qui est Jules Ferry et quel est son rôle ?",
+				"Quels principes Jules Ferry a-t-il établi pour l'éducation ?",
+				"Pourquoi l'éducation publique gratuite était-elle importante ?"
+			],
+			"quiz": [
+				{
+					"id": "16-1",
+					"type": "qcm",
+					"question": "En quelle année l'esclavage a-t-il été aboli en France ?",
+					"reponses": [
+						{"texte": "1789", "correct": false},
+						{"texte": "1848", "correct": true},
+						{"texte": "1905", "correct": false}
+					],
+					"explication": "L'esclavage a été aboli en France en 1848."
+				},
+				{
+					"id": "16-2",
+					"type": "vrai-faux",
+					"question": "Jules Ferry a créé l'école publique gratuite pour tous.",
+					"reponse": true,
+					"explication": "Vrai. Jules Ferry est à l'origine de l'enseignement public, gratuit et laïc."
+				},
+				{
+					"id": "16-3",
+					"type": "qcm",
+					"question": "La IIIe République a été proclamée en :",
+					"reponses": [
+						{"texte": "1848", "correct": false},
+						{"texte": "1875", "correct": true},
+						{"texte": "1905", "correct": false}
+					],
+					"explication": "La IIIe République date de 1875 et a été stable jusqu'en 1940."
+				}
+			]
+		},
+		{
+			"id": 17,
+			"page": 17,
+			"theme": "histoire",
+			"titre": "Guerres Mondiales et Résistance",
+			"contenuOriginal": "La Première Guerre mondiale 1914-1918. Affrontement de masse touchant toute l'Europe puis les États-Unis. Les combats ont fait plus de 9 millions de morts. La Seconde Guerre mondiale 1939-1945. Adolf Hitler, dictateur nazi au pouvoir en Allemagne, déclenche la Seconde Guerre mondiale. Charles de Gaulle 1890-1970 Chef de la résistance française contre les armées allemandes qui occupent notre pays, il est l'artisan, avec les alliés, de la libération de la France.",
+			"explication": "La France a vécu 2 guerres mondiales tragiques : 1) PREMIÈRE GUERRE (1914-18) = 9 millions de morts, France combattent l'Allemagne. 2) SECONDE GUERRE (1939-45) = Nazis occupent la France, massacre de 6 millions de Juifs. 3) CHARLES DE GAULLE = héros français qui mène la Résistance contre les Nazis. Après son appel à la BBC en 1940 ('France libre'), il organise la résistance. Il libère la France avec les Alliés en 1944.",
+			"simplification": "WWI = guerre horrible, 9 millions morts. WWII = Nazis occupent la France, génocide des Juifs. Charles de Gaulle = chef qui organise la Résistance et libère la France. 11 novembre ET 8 mai = jours de commémoration.",
+			"exempleConcret": "Exemple 1 : Tranchées WWI = soldats français meurent par millions. Exemple 2 : Régime de Vichy = gouvernement français collabore avec les Nazis (honte historique). Exemple 3 : De Gaulle s'échappe à Londres, appelle à la résistance : 'La France a perdu une bataille, pas la guerre!'",
+			"questionsEntretien": [
+				"Quelles étaient les dates et durées des deux guerres mondiales ?",
+				"Combien de morts la Première Guerre mondiale a-t-elle causé ?",
+				"Qui est Charles de Gaulle et quel a été son rôle ?",
+				"Qu'est-ce que le régime de Vichy ?",
+				"Quand la France a-t-elle été libérée ?"
+			],
+			"quiz": [
+				{
+					"id": "17-1",
+					"type": "qcm",
+					"question": "Combien de morts la Première Guerre mondiale a-t-elle fait ?",
+					"reponses": [
+						{"texte": "1 million", "correct": false},
+						{"texte": "Plus de 9 millions", "correct": true},
+						{"texte": "50 millions", "correct": false}
+					],
+					"explication": "La Première Guerre mondiale a causé plus de 9 millions de morts."
+				},
+				{
+					"id": "17-2",
+					"type": "vrai-faux",
+					"question": "Charles de Gaulle a livré la France aux Nazis.",
+					"reponse": false,
+					"explication": "Faux. De Gaulle a mené la Résistance CONTRE les Nazis et libéré la France."
+				},
+				{
+					"id": "17-3",
+					"type": "qcm",
+					"question": "De quel événement Charles de Gaulle avait-il besoin pour organiser la Résistance ?",
+					"reponses": [
+						{"texte": "Une victoire militaire rapide", "correct": false},
+						{"texte": "Un appel radio de Londres (BBC) en 1940", "correct": true},
+						{"texte": "Une négociation avec Hitler", "correct": false}
+					],
+					"explication": "De Gaulle a lancé son appel à la BBC le 18 juin 1940 pour organiser la Résistance."
+				}
+			]
+		},
+		{
+			"id": 18,
+			"page": 18,
+			"theme": "ue",
+			"titre": "Construction Européenne",
+			"contenuOriginal": "Traité de Rome 1957 Instaure la Communauté économique européenne entre six pays d'Europe, dont la France. Son objectif est d'établir une union étroite entre les peuples européens. La construction européenne a fortement contribué à installer la paix en Europe.",
+			"explication": "Après la WWII, l'Europe veut éviter les guerres. En 1957, le Traité de Rome crée la CEE (Communauté Économique Européenne) entre 6 pays : France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg. L'idée : plus les pays sont économiquement liés, moins ils font la guerre. Cela évolue vers l'UE d'aujourd'hui (27 pays). La construction européenne apporte la PAIX.",
+			"simplification": "1957 = 6 pays européens créent une communauté économique (CEE). Objectif = unir l'Europe, éviter les guerres, faire du commerce. Aujourd'hui = Union Européenne à 27 pays.",
+			"exempleConcret": "Exemple 1 : Avant = France et Allemagne en guerre 3 fois. Après Traité de Rome = alliés économiques. Exemple 2 : Les échanges commerciaux remplacent les conflits. Exemple 3 : Aujourd'hui, pas de frontières entre pays UE (Schengen).",
+			"questionsEntretien": [
+				"Quand le Traité de Rome a-t-il été signé ?",
+				"Quels étaient les objectifs du Traité de Rome ?",
+				"Quels sont les 6 pays fondateurs de la CEE ?",
+				"Comment la construction européenne a-t-elle apporté la paix ?",
+				"Comment l'UE a-t-elle évolué depuis 1957 ?"
+			],
+			"quiz": [
+				{
+					"id": "18-1",
+					"type": "qcm",
+					"question": "En quelle année le Traité de Rome a-t-il été signé ?",
+					"reponses": [
+						{"texte": "1945", "correct": false},
+						{"texte": "1957", "correct": true},
+						{"texte": "1975", "correct": false}
+					],
+					"explication": "Le Traité de Rome date de 1957."
+				},
+				{
+					"id": "18-2",
+					"type": "vrai-faux",
+					"question": "L'objectif du Traité de Rome était de créer la paix par l'intégration économique.",
+					"reponse": true,
+					"explication": "Vrai. L'intégration économique devait lier les pays et réduire les conflits."
+				},
+				{
+					"id": "18-3",
+					"type": "qcm",
+					"question": "Combien de pays ont signé le Traité de Rome ?",
+					"reponses": [
+						{"texte": "4 pays", "correct": false},
+						{"texte": "6 pays", "correct": true},
+						{"texte": "10 pays", "correct": false}
+					],
+					"explication": "6 pays européens ont fondé la CEE : France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg."
+				}
+			]
+		},
+		{
+			"id": 19,
+			"page": 19,
+			"theme": "ue",
+			"titre": "Citoyenneté Européenne",
+			"contenuOriginal": "Les citoyens français sont des citoyens européens. Depuis 1992, les citoyens français sont aussi citoyens européens. Ils votent aux élections du Parlement européen tous les cinq ans. Ils sont libres de circuler, de travailler, d'étudier, de s'installer dans les autres pays de l'Union européenne. Depuis 2000, la France partage avec 18 autres pays membres de l'Union européenne une monnaie unique l'Euro.",
+			"explication": "Depuis 1992 (Traité de Maastricht), les Français sont aussi CITOYENS EUROPÉENS (pas seulement français). Cela donne des droits : liberté de circulation (pas besoin de visa), droit de travailler partout dans l'UE, droit de voter aux élections européennes. La monnaie commune : l'EURO (depuis 2000). L'UE a sa propre Constitution : la Charte des Droits Fondamentaux (2000).",
+			"simplification": "Depuis 1992, tu es citoyen européen ET français. Tu peux circuler librement en Europe, travailler n'importe où. L'Euro est la monnaie. Vote aux élections européennes.",
+			"exempleConcret": "Exemple 1 : Tu peux vivre et travailler en Allemagne sans visa. Exemple 2 : Tu votes pour le Parlement Européen (qui fait des lois pour 27 pays). Exemple 3 : Tu paies en Euro qu'tu sois en France, Allemagne ou Italie.",
+			"questionsEntretien": [
+				"Qu'est-ce que la citoyenneté européenne ?",
+				"Depuis quand les Français sont-ils citoyens européens ?",
+				"Quels droits donne la citoyenneté européenne ?",
+				"Qu'est-ce que l'Euro et depuis quand existe-t-il ?",
+				"Pouvez-vous étudier ou travailler dans un autre pays de l'UE ?"
+			],
+			"quiz": [
+				{
+					"id": "19-1",
+					"type": "qcm",
+					"question": "Depuis quelle année les Français sont-ils citoyens européens ?",
+					"reponses": [
+						{"texte": "1957", "correct": false},
+						{"texte": "1992", "correct": true},
+						{"texte": "2000", "correct": false}
+					],
+					"explication": "La citoyenneté européenne a été établie en 1992 par le Traité de Maastricht."
+				},
+				{
+					"id": "19-2",
+					"type": "vrai-faux",
+					"question": "Un citoyen français peut travailler librement en Allemagne sans visa.",
+					"reponse": true,
+					"explication": "Vrai. La citoyenneté européenne permet la libre circulation et le droit de travailler."
+				},
+				{
+					"id": "19-3",
+					"type": "qcm",
+					"question": "L'Euro a été adopté par la France en :",
+					"reponses": [
+						{"texte": "1992", "correct": false},
+						{"texte": "2000", "correct": true},
+						{"texte": "2010", "correct": false}
+					],
+					"explication": "La France a adopté l'Euro en 2000 (circulation en 2002)."
+				}
+			]
+		}
+	],
+	"faq": [
+		{
+			"id": 1,
+			"question": "Qu'est-ce que la liberté d'expression en France ?",
+			"reponse": "La liberté d'expression est un droit fondamental qui permet à chaque citoyen de dire son opinion. MAIS elle a des limites : tu ne peux pas insulter, diffamer, ou appeler à la haine. C'est équilibrer ta liberté avec le respect d'autrui.",
+			"theme": "valeurs"
+		},
+		{
+			"id": 2,
+			"question": "Comment la France est-elle gouvernée ?",
+			"reponse": "La France est une démocratie avec une séparation des pouvoirs : 1) Pouvoir exécutif (Président + Gouvernement) 2) Pouvoir législatif (Parlement) 3) Pouvoir judiciaire (Juges). Aucun pouvoir ne domine les autres.",
+			"theme": "institutions"
+		},
+		{
+			"id": 3,
+			"question": "Qu'est-ce que l'égalité femmes-hommes en France ?",
+			"reponse": "C'est une valeur essentielle : femmes et hommes ont exactement les mêmes droits légaux, les mêmes opportunités d'emploi, éducation. Les discriminations sexuelles sont interdites et punissables. Le gouvernement peut refuser la naturalisation si tu refuses cette égalité.",
+			"theme": "valeurs"
+		},
+		{
+			"id": 4,
+			"question": "Qu'est-ce que la laïcité ?",
+			"reponse": "C'est la séparation de l'État et de la religion. L'État ne finance pas les églises, n'impose pas une religion. Tu es libre de croire ce que tu veux EN PRIVÉ, mais l'État reste neutre. À l'école, pas de symboles religieux ostensibles.",
+			"theme": "valeurs"
+		},
+		{
+			"id": 5,
+			"question": "Qui dirige la France ?",
+			"reponse": "Le Président de la République, élu pour 5 ans par tous les citoyens. Il nomme un Premier ministre du parti qui a gagné les élections législatives.",
+			"theme": "institutions"
+		},
+		{
+			"id": 6,
+			"question": "Quel est le rôle du Parlement ?",
+			"reponse": "Le Parlement vote les lois et contrôle le Gouvernement. Il a 2 chambres : Assemblée nationale (577 députés, élus 5 ans) et Sénat (348 sénateurs, élus indirectement 6 ans).",
+			"theme": "institutions"
+		},
+		{
+			"id": 7,
+			"question": "Comment fonctionne la justice en France ?",
+			"reponse": "La justice est indépendante. Elle a 3 types : civile (divorces, héritages), pénale (crimes/délits), administrative (conflits avec l'État). Les juges appliquent la loi et doivent justifier leurs décisions.",
+			"theme": "institutions"
+		},
+		{
+			"id": 8,
+			"question": "Qu'est-ce que la Révolution française ?",
+			"reponse": "En 1789, le peuple se révolte contre le roi Louis XVI et la monarchie absolue. La Déclaration des Droits de l'Homme établit liberté, égalité, fraternité. La République est proclamée en 1792. C'est le fondement de la France moderne.",
+			"theme": "histoire"
+		},
+		{
+			"id": 9,
+			"question": "Qui est Charles de Gaulle ?",
+			"reponse": "Héros français (1890-1970) qui a mené la Résistance contre les Nazis pendant WWII. Son appel à la BBC en 1940 organise la résistance. Il libère la France et fonde la Ve République en 1958.",
+			"theme": "histoire"
+		},
+		{
+			"id": 10,
+			"question": "Qu'est-ce que l'Union Européenne ?",
+			"reponse": "Organisation de 27 pays européens (dont la France) fondée pour créer la paix par l'intégration économique. Depuis 1992, les citoyens UE ont des droits : circulation libre, droit de travailler partout. L'Euro (depuis 2000) est la monnaie commune.",
+			"theme": "ue"
+		}
+	],
+	"interviewQuestions": [
+		{
+			"id": 1,
+			"question": "Expliquez les trois principes fondamentaux de la République française : liberté, égalité, fraternité.",
+			"niveauDifficulte": "facile",
+			"theme": "valeurs",
+			"suggestions": "Parlez de : liberté d'expression, égalité devant la loi, solidarité entre citoyens, exemples concrets."
+		},
+		{
+			"id": 2,
+			"question": "Décrivez la séparation des pouvoirs en France et expliquez pourquoi elle est importante.",
+			"niveauDifficulte": "moyen",
+			"theme": "institutions",
+			"suggestions": "Parlez de : pouvoir exécutif, législatif, judiciaire, équilibre entre les pouvoirs, prévention de la dictature."
+		},
+		{
+			"id": 3,
+			"question": "La France peut-elle refuser la naturalisation à quelqu'un qui refuse l'égalité femmes-hommes ?",
+			"niveauDifficulte": "moyen",
+			"theme": "valeurs",
+			"suggestions": "Réponse : OUI. C'est une valeur essentielle de la République. L'adhésion est évaluée à l'entretien."
+		},
+		{
+			"id": 4,
+			"question": "Qu'est-ce que la laïcité et comment s'applique-t-elle à l'école en France ?",
+			"niveauDifficulte": "moyen",
+			"theme": "valeurs",
+			"suggestions": "Parlez de : séparation Église-État (loi 1905), liberté religieuse EN PRIVÉ, neutralité de l'État, interdiction symboles religieux ostensibles à l'école."
+		},
+		{
+			"id": 5,
+			"question": "Décrivez le système électoral français pour les différents niveaux (Président, Parlement, collectivités).",
+			"niveauDifficulte": "difficile",
+			"theme": "institutions",
+			"suggestions": "Parlez de : suffrage universel, élection Président (5 ans), élection députés (5 ans), sénateurs (6 ans indirect), maire/commune."
+		},
+		{
+			"id": 6,
+			"question": "Qui est Jeanne d'Arc et pourquoi est-elle un symbole important pour la France ?",
+			"niveauDifficulte": "facile",
+			"theme": "histoire",
+			"suggestions": "Parlez de : Jeanne d'Arc (1412-1431), Guerre de Cent-Ans, héroïne nationale, courage, patriotisme."
+		},
+		{
+			"id": 7,
+			"question": "Décrivez les causes et conséquences de la Révolution française.",
+			"niveauDifficulte": "difficile",
+			"theme": "histoire",
+			"suggestions": "Causes : monarchie absolue, inégalités, famines. Conséquences : Déclaration 1789, République 1792, fin des privilèges, début démocratie."
+		},
+		{
+			"id": 8,
+			"question": "Quel est l'héritage de Napoléon et notamment le Code Civil ?",
+			"niveauDifficulte": "moyen",
+			"theme": "histoire",
+			"suggestions": "Parlez de : Code Civil 1804, uniformisation des lois, mariage/propriété/héritage, impact durable sur droit français."
+		},
+		{
+			"id": 9,
+			"question": "Comment l'UE a-t-elle contribué à la paix en Europe depuis 1945 ?",
+			"niveauDifficulte": "moyen",
+			"theme": "ue",
+			"suggestions": "Parlez de : Traité de Rome 1957 (CEE), intégration économique, commerce vs guerres, 27 pays maintenant, citoyen européen."
+		},
+		{
+			"id": 10,
+			"question": "Quels sont vos droits et devoirs en tant que citoyen français ?",
+			"niveauDifficulte": "facile",
+			"theme": "institutions",
+			"suggestions": "Droits : vote, accès emplois publics. Devoirs : respect loi, impôts, défense nationale, scolarité enfants."
+		}
+	]
+}

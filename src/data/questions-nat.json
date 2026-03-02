@@ -1,0 +1,1481 @@
+[
+  {
+    "question": "Qu'est-ce que l'État de droit ?",
+    "options": [
+      "Un État dirigé par un dictateur",
+      "Un État où la loi s'impose à tous, y compris au gouvernement",
+      "Un État sans gouvernement",
+      "Un État théocratique"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'État de droit est un État où la loi s'impose à tous les pouvoirs, y compris le gouvernement. C'est le fondement d'une démocratie et garantit le respect des droits fondamentaux.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Le président de la République a commis un crime. Quelle proposition est correcte ?",
+    "options": [
+      "Il bénéficie d'une immunité absolue",
+      "Il peut être jugé après son mandat comme tout autre citoyen",
+      "Il ne peut pas être jugé en France",
+      "Seul le Sénat peut le juger"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Président bénéficie d'une immunité pendant son mandat, mais peut être jugé après son départ du pouvoir pour les actes commis pendant sa présidence.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+    "options": [
+      "Pour accélérer les décisions",
+      "Pour éviter la concentration du pouvoir et garantir l'équilibre des pouvoirs",
+      "Pour réduire le nombre de ministres",
+      "Pour augmenter le rôle du Parlement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La séparation des pouvoirs prévient la concentration de l'autorité et garantit le respect des droits et libertés des citoyens.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qu'est-ce que l'Hôtel de Matignon ?",
+    "options": ["Un musée à Paris", "La résidence officielle du Premier ministre", "Un ministère", "Un palais royal"],
+    "correctAnswer": 1,
+    "explanation": "L'Hôtel de Matignon, situé à Paris, est la résidence et le siège officiel du Premier ministre français.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel était le surnom de Louis XIV ?",
+    "options": ["Le Sage", "Le Grand", "Le Roi Soleil", "Le Bien-Aimé"],
+    "correctAnswer": 2,
+    "explanation": "Louis XIV, roi de France de 1643 à 1715, était surnommé « Le Roi Soleil » en raison de sa splendeur et de sa puissance.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "De quand date l'appel à la résistance du général de Gaulle ?",
+    "options": ["10 mai 1940", "18 juin 1940", "14 juillet 1940", "1er septembre 1939"],
+    "correctAnswer": 1,
+    "explanation": "Le 18 juin 1940, depuis Londres, le Général de Gaulle a lancé son appel à la résistance face à l'occupation nazie.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quel roi de France a été exécuté pendant la Révolution française ?",
+    "options": ["Louis XIII", "Louis XIV", "Louis XVI", "Louis XVII"],
+    "correctAnswer": 2,
+    "explanation": "Louis XVI, roi de France, a été arrêté puis exécuté par guillotine le 21 janvier 1793 pendant la Révolution française.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+    "options": [
+      "\"Liberté, égalité, fraternité\"",
+      "\"Les hommes naissent libres et égaux en droits\"",
+      "\"Vive la liberté !\"",
+      "\"La liberté guide le peuple\""
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'article 1er de la Déclaration stipule : \"Les hommes naissent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.\"",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Que signifie PMA ?",
+    "options": [
+      "Procréation Médicalement Assistée",
+      "Protection Médicale de l'Adoption",
+      "Politique Médicale d'Assistance",
+      "Procédure Médicale Approuvée"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La PMA (Procréation Médicalement Assistée) est un ensemble de techniques permettant de répondre aux problèmes d'infertilité.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
+    "options": [
+      "L'État doit privilégier une religion",
+      "L'État ne doit favoriser aucune religion et rester impartial",
+      "L'État doit interdire les religions",
+      "L'État doit soutenir le catholicisme"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La neutralité de l'État signifie qu'il ne favorise aucune conviction religieuse ou philosophique. Il respecte et protège la liberté de conscience.",
+    "category": "Principes et Valeurs de la République"
+  },
+  {
+    "question": "À quoi sert un titre de séjour ?",
+    "options": [
+      "À voyager en vacances",
+      "À justifier la résidence régulière en France",
+      "À obtenir un emploi",
+      "À demander la nationalité automatiquement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un titre de séjour est un document officiel qui justifie la présence et la résidence régulière d'une personne étrangère en France.",
+    "category": "Principes et Valeurs de la République"
+  },
+  {
+    "question": "La loi est l'expression de :",
+    "options": [
+      "La volonté du Président",
+      "La volonté générale du peuple",
+      "Les traditions religieuses",
+      "Les grandes entreprises"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La loi est l'expression de la volonté générale du peuple, votée par ses représentants au Parlement.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Un salarié peut-il être licencié sans raison ?",
+    "options": [
+      "Oui, si l'employeur décide de rompre le contrat seul",
+      "Non, il faut obligatoirement un motif réel et sérieux",
+      "Seulement si le salarié est en période d'essai initiale",
+      "Seulement pour les contrats signés dans le secteur privé"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tout licenciement doit être justifié par un motif réel et sérieux (sauf rupture en période d'essai). C'est une protection du droit du travail.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Quel est le rôle du Défenseur des droits ?",
+    "options": [
+      "Juger les criminels",
+      "Préparer les lois",
+      "Protéger les droits et libertés des citoyens",
+      "Diriger le Gouvernement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le Défenseur des droits est une autorité indépendante qui protège les droits et libertés des citoyens face aux administrations publiques.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "En quelle année la Communauté Économique Européenne (CEE) a-t-elle été fondée ?",
+    "options": ["1945", "1951", "1957", "1960"],
+    "correctAnswer": 2,
+    "explanation": "La CEE a été fondée en 1957 avec le Traité de Rome, établissant le marché commun européen.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quel est le patrimoine culturel immatériel de la France reconnu mondialement ?",
+    "options": [
+      "Uniquement l'architecture",
+      "Uniquement les monuments",
+      "La gastronomie, la culture, l'art de vivre à la française",
+      "Uniquement la littérature"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La France est réputée pour son patrimoine culturel immatériel incluant sa cuisine raffinée, ses arts, et sa culture d'excellence.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Concernant le droit de se marier, quelle proposition est correcte ?",
+    "options": [
+      "Seuls les hétérosexuels peuvent se marier",
+      "Le mariage doit être célébré à l'église",
+      "Toute personne majeure peut se marier devant l'officier d'état civil",
+      "Le mariage nécessite l'approbation du préfet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En France, toute personne majeure peut se marier devant l'officier d'état civil de la mairie. C'est un acte administratif et civique.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+    "options": [
+      "Au nom de la tradition",
+      "Au nom de l'ordre public et de l'intérêt général",
+      "Au nom de la religion",
+      "Au nom du profit économique"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'État peut restreindre certaines libertés au nom de l'ordre public et de l'intérêt général, pour protéger les droits d'autrui.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Que doit faire une victime de violences ?",
+    "options": [
+      "Garder le silence",
+      "Déposer plainte auprès de la police ou gendarmerie",
+      "Essayer de se réconcilier seule",
+      "Attendre que d'autres témoins signalent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Une victime de violences doit déposer plainte auprès de la police ou de la gendarmerie pour signaler le crime et obtenir protection.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Qui nomme le Premier ministre ?",
+    "options": ["Le Parlement", "Les citoyens français", "Le Président de la République", "Le Conseil Constitutionnel"],
+    "correctAnswer": 2,
+    "explanation": "Le Président de la République nomme le Premier ministre, qui dirige le Gouvernement.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Le Parlement est composé :",
+    "options": [
+      "D'une seule chambre",
+      "De l'Assemblée nationale et du Sénat",
+      "Du Gouvernement et du Président",
+      "Des ministres"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Parlement français est composé de deux chambres : l'Assemblée nationale et le Sénat.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qu'est-ce que le pouvoir exécutif ? Le pouvoir :",
+    "options": [
+      "De voter les lois",
+      "De juger les criminels",
+      "D'appliquer et d'exécuter les lois",
+      "De contrôler les finances publiques"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le pouvoir exécutif est la capacité d'appliquer et d'exécuter les lois, exercée par le Président et le Gouvernement.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Les dirigeants sont élus par les citoyens dans :",
+    "options": ["Un système dictatorial", "Une démocratie élective", "Une monarchie absolue", "Un système totalitaire"],
+    "correctAnswer": 1,
+    "explanation": "En France, un système démocratique permet aux citoyens d'élire leurs dirigeants au suffrage universel.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "A-t-on le droit de ne pas respecter une loi ?",
+    "options": [
+      "Oui, si on ne l'aime pas",
+      "Non, tout le monde doit respecter la loi",
+      "Oui, si on a une bonne raison",
+      "Non, seulement si elle est injuste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non, en France, tout le monde doit respecter la loi, même si on ne l'aime pas. La loi s'impose à tous.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui doit respecter la loi ?",
+    "options": [
+      "Seulement les citoyens",
+      "Seulement le Gouvernement",
+      "Tout le monde : citoyens, fonctionnaires, et gouvernants",
+      "Seulement les étrangers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tout le monde doit respecter la loi : les citoyens, les résidents, les fonctionnaires, et les gouvernants.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel est le rôle de l'autorité judiciaire ?",
+    "options": ["Voter les lois", "Gouverner le pays", "Juger les litiges et les infractions", "Collecter les impôts"],
+    "correctAnswer": 2,
+    "explanation": "L'autorité judiciaire juge les litiges civils et les infractions criminelles, rendant la justice.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel pouvoir détient un juge ? Le pouvoir :",
+    "options": ["Législatif", "Exécutif", "Judiciaire", "Administratif"],
+    "correctAnswer": 2,
+    "explanation": "Un juge détient le pouvoir judiciaire, c'est-à-dire le pouvoir de rendre la justice et de juger.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "L'autorité judiciaire est exercée par :",
+    "options": ["Le Président seul", "Le Gouvernement", "Les juges et les tribunaux", "Le Parlement"],
+    "correctAnswer": 2,
+    "explanation": "L'autorité judiciaire est exercée par les juges et les tribunaux, qui jugent les litiges et les infractions.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+    "options": [
+      "Rien, il est au-dessus des lois",
+      "Il peut être poursuivi en justice",
+      "Le Président le remplace",
+      "Il perd son mandat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un ministre qui ne respecte pas la loi peut être poursuivi en justice comme tout citoyen.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui est élu lors des élections législatives ?",
+    "options": ["Le Président de la République", "Les sénateurs", "Les députés", "Les juges"],
+    "correctAnswer": 2,
+    "explanation": "Les élections législatives élisent les députés qui composent l'Assemblée nationale.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Combien de députés composent l'Assemblée nationale ?",
+    "options": ["300", "400", "577", "700"],
+    "correctAnswer": 2,
+    "explanation": "L'Assemblée nationale est composée de 577 députés élus au suffrage universel direct.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quand sont élus les sénateurs ?",
+    "options": ["Tous les 5 ans", "Tous les 6 ans, par tiers", "Tous les 4 ans", "Tous les 9 ans"],
+    "correctAnswer": 1,
+    "explanation": "Les sénateurs sont élus pour 6 ans, avec un renouvellement par tiers tous les 3 ans.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui est élu lors des élections municipales ?",
+    "options": ["Le Président", "Les députés", "Le maire et le conseil municipal", "Les sénateurs"],
+    "correctAnswer": 2,
+    "explanation": "Les élections municipales élisent le maire et le conseil municipal qui gère la commune.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui est élu lors des élections présidentielles ?",
+    "options": ["Le Gouvernement", "Le Premier ministre", "Le Président de la République", "Les ministres"],
+    "correctAnswer": 2,
+    "explanation": "Les élections présidentielles élisent le Président de la République au suffrage universel direct.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "À partir de quel âge a-t-on le droit de voter ?",
+    "options": ["16 ans", "18 ans", "21 ans", "25 ans"],
+    "correctAnswer": 1,
+    "explanation": "En France, l'âge de voter est 18 ans pour tous les scrutins électoraux.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Pour combien de temps est élu le président de la République française ?",
+    "options": ["3 ans", "5 ans", "7 ans", "10 ans"],
+    "correctAnswer": 1,
+    "explanation": "Le Président de la République est élu pour 5 ans (depuis la révision constitutionnelle de 2000).",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Pour combien de temps sont élus les députés ?",
+    "options": ["3 ans", "4 ans", "5 ans", "6 ans"],
+    "correctAnswer": 2,
+    "explanation": "Les députés sont élus pour 5 ans à l'Assemblée nationale.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Pour combien de temps sont élus les sénateurs ?",
+    "options": ["3 ans", "5 ans", "6 ans", "9 ans"],
+    "correctAnswer": 2,
+    "explanation": "Les sénateurs sont élus pour 6 ans, avec renouvellement par tiers tous les 3 ans.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui possède le pouvoir exécutif ?",
+    "options": ["Le Parlement", "Le Président et le Gouvernement", "Les juges", "Les citoyens"],
+    "correctAnswer": 1,
+    "explanation": "Le pouvoir exécutif est exercé par le Président de la République et le Gouvernement.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quelle condition est nécessaire pour voter aux élections ?",
+    "options": [
+      "Être riche",
+      "Être citoyen français, majeur et inscrit sur les listes électorales",
+      "Avoir un diplôme",
+      "Être marié"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pour voter, il faut être citoyen français, âgé d'au moins 18 ans et inscrit sur les listes électorales.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui peut voter aux élections en France ?",
+    "options": [
+      "Seulement les hommes",
+      "Seulement les propriétaires",
+      "Tout citoyen français majeur inscrit sur les listes électorales",
+      "Seulement les salariés"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tout citoyen français âgé d'au moins 18 ans et inscrit sur les listes électorales peut voter.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Que signifie « suffrage universel » ?",
+    "options": [
+      "Le droit de vote d'une minorité",
+      "Le droit de vote de tous les citoyens majeurs",
+      "Le droit de voter plusieurs fois",
+      "Le droit des riches à voter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le suffrage universel signifie le droit de vote de tous les citoyens majeurs, sans discrimination.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Concernant les partis politiques, quelle proposition est correcte ?",
+    "options": [
+      "Il n'y a qu'un seul parti politique en France",
+      "Les partis politiques sont interdits",
+      "Plusieurs partis politiques peuvent coexister librement",
+      "Les partis politiques sont contrôlés par l'État"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En France, plusieurs partis politiques peuvent coexister librement et concourir aux élections.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel est le rôle des députés ?",
+    "options": [
+      "Juger les criminels",
+      "Voter les lois et représenter leurs électeurs",
+      "Diriger les communes",
+      "Nommer le Président"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les députés votent les lois à l'Assemblée nationale et représentent leurs électeurs.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+    "options": [
+      "Politique, économique, social",
+      "Législatif, exécutif, judiciaire",
+      "National, régional, local",
+      "Public, privé, militaire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La séparation des pouvoirs repose sur trois piliers : le pouvoir législatif (Parlement), exécutif (Président et Gouvernement) et judiciaire (Juges).",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui possède le pouvoir législatif ?",
+    "options": ["Le Président", "Le Gouvernement", "Le Parlement", "Les citoyens"],
+    "correctAnswer": 2,
+    "explanation": "Le pouvoir législatif est exercé par le Parlement (Assemblée nationale et Sénat), qui vote les lois.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui sanctionne l'auteur d'un vol ?",
+    "options": ["La police", "Le Gouvernement", "Le juge ou le tribunal", "Le maire"],
+    "correctAnswer": 2,
+    "explanation": "Un juge ou un tribunal juge et sanctionne l'auteur d'un vol après un procès régulier.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui élit les députés ?",
+    "options": ["Le Président", "Le Gouvernement", "Les citoyens français majeurs", "Le Sénat"],
+    "correctAnswer": 2,
+    "explanation": "Les députés sont élus par les citoyens français majeurs au suffrage universel direct.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui vote les lois ?",
+    "options": ["Le Président seul", "Le Gouvernement", "Le Parlement", "Les juges"],
+    "correctAnswer": 2,
+    "explanation": "Le Parlement (Assemblée nationale et Sénat) vote les lois.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui réside au palais de l'Élysée ?",
+    "options": [
+      "Le Premier ministre",
+      "Le Président de la République",
+      "Le chef du Sénat",
+      "Le leader de l'opposition"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Président de la République réside et travaille au Palais de l'Élysée, situé à Paris.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Combien y a-t-il de départements en France ?",
+    "options": ["80", "90", "96", "120"],
+    "correctAnswer": 2,
+    "explanation": "La France compte 96 départements (y compris les collectivités d'outre-mer).",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui représente l'État dans un département ?",
+    "options": ["Le maire", "Le préfet", "Le gouverneur", "Le sénateur"],
+    "correctAnswer": 1,
+    "explanation": "Le préfet représente l'État dans un département et assure l'application des lois.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui dirige la commune ?",
+    "options": ["Le préfet", "Le gouverneur", "Le maire", "Le sénateur"],
+    "correctAnswer": 2,
+    "explanation": "Le maire, élu par le conseil municipal, dirige la commune.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Est-ce que le président de la République a tous les pouvoirs ?",
+    "options": [
+      "Oui, il est absolument souverain",
+      "Non, le pouvoir est séparé entre le Président, le Gouvernement et le Parlement",
+      "Oui, il gouverne seul",
+      "Non, seul le Gouvernement a du pouvoir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non, le pouvoir est séparé entre le Président, le Gouvernement et le Parlement. Aucun n'a tous les pouvoirs.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui est le préfet ?",
+    "options": ["Un représentant élu", "Un haut fonctionnaire nommé qui représente l'État", "Un ministre", "Un juge"],
+    "correctAnswer": 1,
+    "explanation": "Le préfet est un haut fonctionnaire nommé par le Gouvernement qui représente l'État dans un département.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel est le rôle du Parlement ?",
+    "options": [
+      "Gouverner le pays",
+      "Voter les lois et contrôler le Gouvernement",
+      "Juger les crimes",
+      "Nommer le Président"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Parlement vote les lois et exerce un contrôle démocratique sur le Gouvernement.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel est le régime politique de la France aujourd'hui ?",
+    "options": ["Une monarchie", "Un régime semi-présidentiel", "Une dictature", "Une théocratie"],
+    "correctAnswer": 1,
+    "explanation": "La France est un régime semi-présidentiel avec un Président (pouvoir exécutif) et un Parlement (pouvoir législatif).",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2026 ?",
+    "options": ["24", "27", "28", "30"],
+    "correctAnswer": 1,
+    "explanation": "L'Union européenne compte 27 États membres. Ce nombre est stable depuis le départ du Royaume-Uni (Brexit) en 2020.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel État n'est pas membre de l'Union européenne ?",
+    "options": ["La France", "L'Allemagne", "La Norvège", "L'Italie"],
+    "correctAnswer": 2,
+    "explanation": "La Norvège n'est pas membre de l'Union européenne, bien qu'elle soit très intégrée économiquement.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+    "options": [
+      "Être riche",
+      "Être citoyen de l'UE, majeur et inscrit sur les listes électorales",
+      "Avoir un diplôme",
+      "Être propriétaire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pour voter aux élections européennes, il faut être citoyen d'un État membre de l'UE, majeur et inscrit sur les listes électorales.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "À quelle fréquence les élections européennes sont-elles organisées ?",
+    "options": ["Tous les 3 ans", "Tous les 5 ans", "Tous les 7 ans", "Tous les 10 ans"],
+    "correctAnswer": 1,
+    "explanation": "Les élections européennes pour élire le Parlement européen se déroulent tous les 5 ans.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quel pays est un pays fondateur de l'Union européenne ?",
+    "options": ["La Suisse", "La France", "La Norvège", "La Suède"],
+    "correctAnswer": 1,
+    "explanation": "La France est un pays fondateur de ce qui allait devenir l'Union européenne avec le Traité de Rome de 1957.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quelle est la monnaie utilisée en France ?",
+    "options": ["Le franc", "La livre", "L'euro", "Le dollar"],
+    "correctAnswer": 2,
+    "explanation": "L'euro est la monnaie officielle de la France depuis 2002.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Qui élit les députés européens ?",
+    "options": ["Le Gouvernement de l'UE", "Les citoyens de l'UE", "Le Conseil européen", "La Commission européenne"],
+    "correctAnswer": 1,
+    "explanation": "Les citoyens des États membres de l'UE élisent les députés au Parlement européen au suffrage universel direct.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Quand célèbre-t-on la journée de l'Europe ?",
+    "options": ["1er janvier", "14 juillet", "9 mai", "25 décembre"],
+    "correctAnswer": 2,
+    "explanation": "La journée de l'Europe est célébrée le 9 mai, commémorant la Déclaration Schuman de 1950.",
+    "category": "Système institutionnel et politique"
+  },
+  {
+    "question": "Comment s'appelle la Constitution actuelle de la France ?",
+    "options": [
+      "Constitution de 1789",
+      "Constitution de 1871",
+      "Constitution de la Ve République",
+      "Constitution napoléonienne"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Constitution actuelle est celle de la Ve République, adoptée le 4 octobre 1958.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?",
+    "options": [
+      "La Déclaration des droits de l'homme",
+      "La Constitution",
+      "Le Préambule de la Constitution",
+      "Le Code civil"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Constitution énonce les principes fondamentaux, tandis que la Déclaration des droits de l'homme et du citoyen (1789) énonce les droits fondamentaux.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Concernant les droits individuels, quelle proposition est correcte ?",
+    "options": [
+      "Chacun a tous les droits",
+      "Les droits individuels sont absolus et sans limites",
+      "Les droits individuels existent mais peuvent être limités pour protéger l'ordre public",
+      "Les droits individuels n'existent pas en France"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Les droits individuels existent mais peuvent être limités quand c'est nécessaire pour protéger l'ordre public ou les droits d'autrui.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "De quelle année date la Déclaration des droits de l'homme et du citoyen ?",
+    "options": ["1789", "1799", "1848", "1945"],
+    "correctAnswer": 0,
+    "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août 1789 pendant la Révolution française.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Lequel de ces droits est un droit fondamental ?",
+    "options": [
+      "Le droit de devenir riche",
+      "Le droit d'insulter les autres",
+      "Le droit à la vie, la liberté et la sécurité",
+      "Le droit de ne pas payer ses impôts"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le droit à la vie, la liberté et la sécurité sont des droits fondamentaux reconnus universellement.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Parmi ces textes, lequel garantit les droits et libertés en France ?",
+    "options": ["Le Coran", "La Constitution et la Déclaration des droits de l'homme", "La Bible", "Un simple décret"],
+    "correctAnswer": 1,
+    "explanation": "La Constitution et la Déclaration des droits de l'homme et du citoyen de 1789 garantissent les droits et libertés en France.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Qu'est-ce que la liberté d'expression ?",
+    "options": [
+      "Le droit de mentir",
+      "Le droit de diffamer quelqu'un",
+      "Le droit de pouvoir s'exprimer librement sans censure",
+      "Le droit d'être violent verbalement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La liberté d'expression est le droit fondamental de pouvoir s'exprimer librement, dans le respect de la loi.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Quel droit permet à une personne de se défendre devant la justice ?",
+    "options": [
+      "Le droit au silence",
+      "Le droit d'avoir un avocat",
+      "Le droit à un procès équitable avec un avocat",
+      "Le droit de ne pas parler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le droit à un procès équitable, incluant l'accès à un avocat, permet à une personne de se défendre en justice.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+    "options": [
+      "La Charte de 1830",
+      "La Déclaration des droits de l'homme et du citoyen de 1789",
+      "Le Traité de Versailles",
+      "Le Code Napoléon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Déclaration des droits de l'homme et du citoyen de 1789 est le texte fondateur des droits et devoirs en France.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Quel texte a été adopté pendant la Révolution française ?",
+    "options": [
+      "La Constitution de 1958",
+      "La Déclaration des droits de l'homme et du citoyen de 1789",
+      "Le Traité de Rome",
+      "La loi de 1901"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août 1789 pendant la Révolution française.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Quelle liberté permet à une personne de ne pas avoir de religion ?",
+    "options": [
+      "La liberté d'association",
+      "La liberté d'expression",
+      "La liberté de conscience",
+      "La liberté de circulation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La liberté de conscience garantit à chacun le droit de ne pas avoir de religion ou de changer de religion.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Une femme peut avorter :",
+    "options": [
+      "Non, c'est toujours interdit en France",
+      "Oui, c'est un droit dans la limite légale",
+      "Seulement avec l'autorisation du mari",
+      "Seulement avant 2 semaines de grossesse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En France, l'avortement est légal. Le délai légal est actuellement de 14 semaines de grossesse (ou 84 jours).",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "Est-il toujours possible de divorcer ?",
+    "options": [
+      "Non, le divorce est interdit",
+      "Oui, le divorce est possible",
+      "Seulement avec l'accord du mari",
+      "Seulement pour raison de tromperie"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oui, le divorce est possible en France. Il existe plusieurs types de divorces (consentement mutuel, rupture de vie commune, etc.).",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "La peine de mort est :",
+    "options": [
+      "Toujours appliquée en France",
+      "Autorisée pour les crimes graves",
+      "Abolie depuis 1981 en France",
+      "Applicable seulement aux étrangers"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La peine de mort a été abolie en France le 18 septembre 1981 sous le Président François Mitterrand.",
+    "category": "Droits et Devoirs"
+  },
+  {
+    "question": "En quelle année a débuté la Révolution française ?",
+    "options": ["1788", "1789", "1790", "1791"],
+    "correctAnswer": 1,
+    "explanation": "La Révolution française a débuté en 1789 avec la prise de la Bastille le 14 juillet.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Napoléon Ier ?",
+    "options": [
+      "Un roi de France",
+      "Un général français qui devint Empereur",
+      "Un président de la République",
+      "Un ministre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Napoléon Ier (1769-1821) était un général français qui devint Empereur des Français de 1804 à 1815.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Lequel de ces personnages historiques est français ?",
+    "options": ["Albert Einstein", "Jules Verne", "Isaac Newton", "Wolfgang Mozart"],
+    "correctAnswer": 1,
+    "explanation": "Jules Verne (1828-1905) était un écrivain et romancier français de science-fiction.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Dans quelle République est-on aujourd'hui ?",
+    "options": ["La IIe République", "La IIIe République", "La IVe République", "La Ve République"],
+    "correctAnswer": 3,
+    "explanation": "La France est actuellement dans la Ve République, établie en 1958 par le Général de Gaulle.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qu'est-ce que la Shoah ?",
+    "options": [
+      "Une période historique",
+      "L'Holocauste : le génocide des juifs perpétré par les nazis pendant la Seconde Guerre mondiale",
+      "Une conférence politique",
+      "Une bataille militaire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Shoah est l'Holocauste : le génocide systématique de six millions de juifs par les nazis (1941-1945).",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quel pays ou région du monde a été colonisé par la France ?",
+    "options": [
+      "L'Afrique du Nord (Algérie, Maroc, Tunisie)",
+      "L'Indochine (Vietnam, Cambodge, Laos)",
+      "L'Afrique occidentale française",
+      "Tous les ci-dessus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "La France a colonisé plusieurs régions : l'Afrique du Nord (Algérie, Maroc, Tunisie), l'Indochine, l'Afrique occidentale et équatoriale.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui a rendu l'école gratuite, laïque et obligatoire ?",
+    "options": ["Napoléon", "Jules Ferry", "Voltaire", "Louis XIV"],
+    "correctAnswer": 1,
+    "explanation": "Jules Ferry (1832-1893) a promulgué les lois (1881-1882) rendant l'école gratuite, laïque et obligatoire en France.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quand a eu lieu la Seconde Guerre mondiale ?",
+    "options": ["1914-1918", "1939-1945", "1945-1950", "1950-1960"],
+    "correctAnswer": 1,
+    "explanation": "La Seconde Guerre mondiale s'est déroulée de 1939 à 1945. La France a été occupée de 1940 à 1944.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quand a eu lieu la Première Guerre mondiale ?",
+    "options": ["1900-1910", "1914-1918", "1920-1925", "1930-1940"],
+    "correctAnswer": 1,
+    "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "En quelle année a été créée la Communauté Économique Européenne (CEE) ?",
+    "options": ["1945", "1951", "1957", "1960"],
+    "correctAnswer": 2,
+    "explanation": "La Communauté Économique Européenne (CEE) a été fondée en 1957 avec le Traité de Rome.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+    "options": [
+      "La fête de la moisson",
+      "La fin de la Première Guerre mondiale (1918)",
+      "L'anniversaire de Napoléon",
+      "La fête de la Bastille"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le 11 novembre 1918 marque l'armistice et la fin de la Première Guerre mondiale.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui a été le premier Président élu sous la Ve République ?",
+    "options": ["Georges Pompidou", "Le Général de Gaulle", "Valéry Giscard d'Estaing", "François Mitterrand"],
+    "correctAnswer": 1,
+    "explanation": "Le Général de Gaulle a été le premier Président de la Ve République (1959-1969).",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "En quelle année l'esclavage a-t-il été aboli définitivement en France ?",
+    "options": ["1848", "1804", "1789", "1762"],
+    "correctAnswer": 0,
+    "explanation": "L'esclavage a été aboli définitivement en France en 1848 par la République.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+    "options": ["1789", "1848", "1881", "1945"],
+    "correctAnswer": 2,
+    "explanation": "L'école publique est gratuite depuis 1881 avec les lois Jules Ferry.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Combien y a-t-il eu de républiques en France ?",
+    "options": ["Trois", "Quatre", "Cinq", "Six"],
+    "correctAnswer": 2,
+    "explanation": "Il y a eu cinq républiques en France : la Ire (1792-1804), la IIe (1848-1852), la IIIe (1870-1940), la IVe (1947-1958) et la Ve (1958-actuelle).",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était le roi de France au moment de la Révolution française ?",
+    "options": ["Louis XIV", "Louis XV", "Louis XVI", "Louis XVIII"],
+    "correctAnswer": 2,
+    "explanation": "Louis XVI était le roi de France au moment de la Révolution française (1789). Il a été exécuté en 1793.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui a fondé la Ve République ?",
+    "options": ["François Mitterrand", "Le Général de Gaulle", "Georges Pompidou", "Valéry Giscard d'Estaing"],
+    "correctAnswer": 1,
+    "explanation": "Le Général de Gaulle a fondé la Ve République en 1958, mettant fin à la IVe République en crise.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Que célèbre-t-on le 14 juillet ?",
+    "options": [
+      "La fin de la Seconde Guerre mondiale",
+      "La prise de la Bastille et la fête nationale",
+      "L'anniversaire du Président",
+      "La fin de la Révolution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le 14 juillet célèbre la prise de la Bastille (1789), symbole de la Révolution française et fête nationale.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quelle guerre a eu lieu entre 1914 et 1918 ?",
+    "options": [
+      "La Guerre de Cent ans",
+      "La Révolution française",
+      "La Première Guerre mondiale",
+      "La Seconde Guerre mondiale"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Pourquoi l'année 1958 est importante pour la France ?",
+    "options": [
+      "Fin de la Seconde Guerre mondiale",
+      "Création de la Ve République et arrivée au pouvoir du Général de Gaulle",
+      "Début de la Révolution",
+      "Indépendance de la France"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1958 est l'année de création de la Ve République et du retour au pouvoir du Général de Gaulle.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quel fleuve coule en France ?",
+    "options": ["Le Danube", "La Loire", "La Tamise", "Le Tibre"],
+    "correctAnswer": 1,
+    "explanation": "La Loire est le plus long fleuve de France, s'écoulant vers l'océan Atlantique.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quelle ville est française ?",
+    "options": ["Londres", "Paris", "Rome", "Berlin"],
+    "correctAnswer": 1,
+    "explanation": "Paris est la capitale et la plus grande ville de France.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quel océan borde la côte ouest française ?",
+    "options": ["L'océan Indien", "L'océan Pacifique", "L'océan Atlantique", "L'océan Arctique"],
+    "correctAnswer": 2,
+    "explanation": "L'océan Atlantique borde la côte ouest de la France.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qu'est-ce que Paris ?",
+    "options": ["Une région de France", "Une province", "La capitale et la plus grande ville de France", "Un monument"],
+    "correctAnswer": 2,
+    "explanation": "Paris est la capitale de la France, située au centre du bassin parisien sur la Seine.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "options": ["Lyon", "Marseille", "Paris", "Toulouse"],
+    "correctAnswer": 2,
+    "explanation": "Paris est la capitale de la France depuis des siècles.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Sur quel continent se situe la France métropolitaine ?",
+    "options": ["En Asie", "En Afrique", "En Europe", "En Amérique"],
+    "correctAnswer": 2,
+    "explanation": "La France métropolitaine se situe en Europe, en partie en Europe occidentale.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quelle île est un département d'outre-mer français ?",
+    "options": ["La Corse", "La Martinique", "Tahiti", "L'île Maurice"],
+    "correctAnswer": 1,
+    "explanation": "La Martinique est l'un des 5 départements d'outre-mer (DOM) avec la Guadeloupe, la Guyane, la Réunion et Mayotte.",
+    "category": "Histoire, géographie et culture"
+  },
+  {
+    "question": "Combien y a-t-il de régions en France métropolitaine ?",
+    "options": ["10", "13", "18", "22"],
+    "correctAnswer": 1,
+    "explanation": "Il y a 13 régions en France métropolitaine depuis la réforme territoriale entrée en vigueur le 1er janvier 2016 (il y en avait 22 auparavant). Le total de 18 régions correspond à la France entière, incluant les 5 régions d'outre-mer.",
+    "category": "Histoire, géographie et culture"
+  },
+  {
+    "question": "Quelle ville est un grand port maritime ?",
+    "options": ["Bordeaux", "Marseille", "Nantes", "Tous les ci-dessus"],
+    "correctAnswer": 3,
+    "explanation": "Marseille, Bordeaux et Nantes sont d'importants ports maritimes français.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quelle est la mer au sud de la France métropolitaine ?",
+    "options": ["La mer du Nord", "La Manche", "La mer Méditerranée", "La mer Noire"],
+    "correctAnswer": 2,
+    "explanation": "La mer Méditerranée borde la côte sud de la France métropolitaine.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quelle ville est située au bord de la mer Méditerranée ?",
+    "options": ["Paris", "Lyon", "Nice", "Lille"],
+    "correctAnswer": 2,
+    "explanation": "Nice est une grande ville française située sur la Côte d'Azur (Méditerranée).",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Où se situe la Corse ?",
+    "options": ["En Espagne", "En Italie", "En Méditerranée, entre la France et l'Italie", "En Afrique"],
+    "correctAnswer": 2,
+    "explanation": "La Corse est une île française située en Méditerranée, entre la France continentale et l'Italie.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+    "options": ["Les Alpes", "Les Vosges", "le Jura", "les Pyrénées"],
+    "correctAnswer": 0,
+    "explanation": "Les Alpes constituent la chaîne de montagnes entre la France et l'Italie.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Molière ?",
+    "options": [
+      "Un peintre français",
+      "Un dramaturge et acteur français majeur du XVIIe siècle",
+      "Un musicien français",
+      "Un scientifique français"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Molière (1622-1673) était un dramaturge et acteur français majeur, auteur de comédies comme \"Tartuffe\" et \"Le Malade Imaginaire\".",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Charles Baudelaire ?",
+    "options": [
+      "Un peintre français",
+      "Un poète français majeur du XIXe siècle",
+      "Un musicien français",
+      "Un scientifique français"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Charles Baudelaire (1821-1867) était un poète et critique d'art français majeur, auteur de \"Les Fleurs du Mal\".",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était George Sand ?",
+    "options": [
+      "Un homme politique",
+      "Une écrivaine française majeure du XIXe siècle",
+      "Une actrice de théâtre",
+      "Une reine de France"
+    ],
+    "correctAnswer": 1,
+    "explanation": "George Sand (1804-1876) était une écrivaine française majeure du XIXe siècle, pionnière du mouvement littéraire romantique.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Simone de Beauvoir ?",
+    "options": [
+      "Une reine de France",
+      "Une écrivaine et philosophe féministe française majeure",
+      "Une actrice de cinéma",
+      "Une scientifique"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Simone de Beauvoir (1908-1986) était une écrivaine, philosophe et féministe française majeure, auteure du \"Deuxième Sexe\".",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Albert Camus ?",
+    "options": [
+      "Un sculpteur français",
+      "Un écrivain et philosophe français majeur du XXe siècle",
+      "Un musicien français",
+      "Un peintre impressionniste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Albert Camus (1913-1960) était un écrivain et philosophe français majeur, auteur de \"L'Étranger\" et \"La Peste\".",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Paul Cézanne ?",
+    "options": [
+      "Un écrivain français",
+      "Un peintre postimpressionniste français majeur",
+      "Un musicien français",
+      "Un sculpteur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paul Cézanne (1839-1906) était un peintre postimpressionniste français majeur qui a influencé le cubisme.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Marc Chagall ?",
+    "options": ["Un écrivain", "Un peintre et sculpteur français d'origine russe", "Un musicien", "Un scientifique"],
+    "correctAnswer": 1,
+    "explanation": "Marc Chagall (1887-1985) était un peintre et sculpteur d'origine russe ayant travaillé en France, connu pour son style surréaliste.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Joséphine Baker ?",
+    "options": [
+      "Une reine de France",
+      "Une danseuse et chanteuse française d'origine américaine",
+      "Une écrivaine",
+      "Une actrice de théâtre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Joséphine Baker (1906-1975) était une danseuse, chanteuse et actrice française d'origine américaine, icône des années 1920.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était une chanteuse française célèbre ?",
+    "options": ["Maria Callas", "Édith Piaf", "Joan Baez", "Ella Fitzgerald"],
+    "correctAnswer": 1,
+    "explanation": "Édith Piaf (1915-1963) était une chanteuse française mondialement célèbre, notamment pour \"La Vie en rose\".",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qu'est-ce que le Louvre ?",
+    "options": [
+      "Un château royal",
+      "Le plus grand musée de France et du monde",
+      "Une région de France",
+      "Un monument médiéval"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le Louvre est le plus grand musée de France et l'un des plus importants du monde, situé à Paris.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Qui était Jean de la Fontaine ?",
+    "options": ["Un peintre", "Un fabuliste et poète français majeur du XVIIe siècle", "Un musicien", "Un sculpteur"],
+    "correctAnswer": 1,
+    "explanation": "Jean de la Fontaine (1621-1695) était un fabuliste et poète français majeur, auteur des \"Fables\".",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quel écrivain est français ?",
+    "options": ["Dante Alighieri", "Victor Hugo", "Shakespeare", "Goethe"],
+    "correctAnswer": 1,
+    "explanation": "Victor Hugo (1802-1885) était un écrivain français majeur du XIXe siècle, auteur de \"Les Misérables\" et \"Notre-Dame de Paris\".",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Dans quelle ville se trouve la tour Eiffel ?",
+    "options": ["Lyon", "Marseille", "Paris", "Bordeaux"],
+    "correctAnswer": 2,
+    "explanation": "La tour Eiffel se trouve à Paris. Elle a été construite pour l'Exposition universelle de 1889.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quand célèbre-t-on Noël ?",
+    "options": ["1er janvier", "14 juillet", "25 décembre", "1er novembre"],
+    "correctAnswer": 2,
+    "explanation": "Noël est célébré le 25 décembre en France et dans la plupart des pays chrétiens.",
+    "category": "Histoire, Géographie et Culture"
+  },
+  {
+    "question": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+    "options": ["17", "18", "15", "112"],
+    "correctAnswer": 2,
+    "explanation": "Le 15 est le numéro d'urgence pour appeler le SAMU (Service d'Aide Médicale d'Urgence).",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Quel numéro d'urgence permet d'appeler les pompiers ?",
+    "options": ["15", "17", "18", "112"],
+    "correctAnswer": 2,
+    "explanation": "Le 18 est le numéro d'urgence pour appeler les pompiers (sapeurs-pompiers).",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",
+    "options": [
+      "Rien, on peut conduire immédiatement",
+      "Immatriculer le véhicule à son nom",
+      "Obtenir une assurance auto",
+      "Tous les ci-dessus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pour conduire légalement, il faut avoir un permis de conduire valide, immatriculer le véhicule et avoir une assurance automobile.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "À quelles conditions un mariage est-il reconnu juridiquement ?",
+    "options": [
+      "À titre privé seulement",
+      "S'il a lieu à l'église",
+      "S'il est célébré par un officier d'état civil (maire)",
+      "S'il est signé par les deux familles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Un mariage est reconnu juridiquement en France s'il est célébré par un officier d'état civil (maire) devant des témoins.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Quel est le délai légal pour déclarer la naissance d'un enfant à la mairie ?",
+    "options": [
+      "Dans les 5 jours suivant la naissance",
+      "Dans les 15 jours suivant la naissance",
+      "Dans les 30 jours suivant la naissance",
+      "Il n'y a pas de délai légal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "En France, la déclaration de naissance est obligatoire et doit être faite dans les 5 jours suivant l'accouchement auprès de l'officier d'état civil de la mairie du lieu de naissance.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Le travail non déclaré est :",
+    "options": ["Autorisé s'il est payant", "Illégal et pénalisé", "Un type d'emploi précaire", "Une forme d'aide"],
+    "correctAnswer": 1,
+    "explanation": "Le travail non déclaré est illégal en France. L'employeur qui rémunère un employé sans le déclarer encourt de lourdes pénalités.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Que doit faire un employeur pour fixer un salaire ?",
+    "options": [
+      "Payer ce qu'il veut",
+      "Respecter le SMIC (salaire minimum interprofessionnel de croissance)",
+      "Faire une évaluation personnelle",
+      "Consulter les syndicats"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un employeur doit respecter le SMIC (salaire minimum) et les conventions collectives applicables au secteur.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Qu'est-ce que le SMIC ?",
+    "options": [
+      "Un système de santé",
+      "Le salaire minimum interprofessionnel de croissance",
+      "Une taxe gouvernementale",
+      "Une assurance sociale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire minimum légal en France.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+    "options": [
+      "Envoyer des CV à tous les employeurs",
+      "S'inscrire auprès de France Travail",
+      "Demander un prêt à la banque",
+      "Changer de région"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pour chercher un emploi en France, la première étape est de s'inscrire auprès de France Travail (anciennement Pôle Emploi).",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Quelle est la durée légale du temps de travail par semaine ?",
+    "options": ["35 heures", "40 heures", "45 heures", "50 heures"],
+    "correctAnswer": 0,
+    "explanation": "La durée légale du temps de travail en France est de 35 heures par semaine depuis 2000.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Qui est aidé par France Travail ?",
+    "options": [
+      "Seulement les jeunes",
+      "Uniquement les femmes",
+      "Les personnes en recherche d'emploi",
+      "Seulement les cadres"
+    ],
+    "correctAnswer": 2,
+    "explanation": "France Travail aide toutes les personnes en recherche d'emploi à trouver un travail.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Une personne étrangère en situation régulière peut créer son entreprise :",
+    "options": [
+      "Non, c'est réservé aux Français",
+      "Oui, elle peut créer une entreprise",
+      "Seulement avec l'accord du préfet",
+      "Seulement si elle a un diplôme"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oui, une personne étrangère en situation régulière peut créer une entreprise en France.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Une femme peut-elle créer son entreprise ?",
+    "options": [
+      "Non, c'est réservé aux hommes",
+      "Oui, elle a le même droit que les hommes",
+      "Seulement avec l'autorisation de son mari",
+      "Seulement dans certains secteurs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oui, une femme peut créer une entreprise en France. L'égalité homme-femme garantit ce droit.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "À partir de quel âge un mineur peut-il travailler ?",
+    "options": ["Dès 10 ans", "À partir de 14 ans (avec restrictions)", "À partir de 18 ans", "À partir de 16 ans"],
+    "correctAnswer": 1,
+    "explanation": "Un mineur peut commencer à travailler à partir de 14 ans en France, avec des restrictions légales sur les horaires et types de travail.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+    "options": ["La mairie", "France Travail", "L'Assurance maladie", "La préfecture"],
+    "correctAnswer": 2,
+    "explanation": "L'Assurance maladie (Sécurité sociale) rembourse les frais de santé en France.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Qu'est-ce qu'un numéro d'urgence ?",
+    "options": [
+      "Un numéro de bus",
+      "Un numéro à appeler en cas de danger ou d'urgence",
+      "Un numéro de téléphone classique",
+      "Un code postal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un numéro d'urgence (15, 17, 18, 112) est un numéro à appeler gratuitement en cas de danger ou d'urgence.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+    "options": [
+      "Seuls les Français peuvent accéder aux soins",
+      "Tous les résidents en situation régulière ont accès à un système de santé",
+      "Les soins sont payants pour tout le monde",
+      "Les étrangers ne peuvent pas se faire soigner"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tous les résidents en France, français ou étrangers en situation régulière, ont accès au système de santé.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "En cas de problème de santé non urgent, à qui faut-il s'adresser en premier ?",
+    "options": ["À l'hôpital", "Au médecin traitant", "À la pharmacie", "À l'ambulance"],
+    "correctAnswer": 1,
+    "explanation": "Pour un problème de santé non urgent, il faut d'abord consulter un médecin traitant qui orientera si nécessaire.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Quel est le rôle du médecin traitant ?",
+    "options": [
+      "Juger les maladies graves",
+      "Soigner et coordonner les soins du patient",
+      "Vacciner obligatoirement",
+      "Vendre des médicaments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le médecin traitant soigne le patient et coordonne ses soins avec d'autres médecins si nécessaire.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?",
+    "options": [
+      "Pour un rhume",
+      "En cas de danger pour la vie, urgence médicale ou accouchement",
+      "Pour une consultation de routine",
+      "Pour une prescription médicale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "On doit se rendre aux urgences en cas de danger pour la vie (blessure grave, accident, crise cardiaque, etc.).",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Quel est l'objectif des vaccinations obligatoires ?",
+    "options": [
+      "D'enrichir les pharmaciens",
+      "De protéger la santé publique et d'éradiquer les maladies graves",
+      "De contrôler les naissances",
+      "D'imposer des règles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les vaccinations obligatoires protègent la santé publique en prévenant les maladies graves et contagieuses.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "À quoi sert la carte Vitale ?",
+    "options": [
+      "À voyager en Europe",
+      "À justifier la résidence régulière",
+      "À accéder aux soins et au remboursement par la Sécurité sociale",
+      "À avoir des réductions commerciales"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La carte Vitale permet aux assurés de la Sécurité sociale d'accéder aux soins et de se faire rembourser.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "À quoi sert une mutuelle santé ?",
+    "options": [
+      "À voter",
+      "À rembourser les frais non couverts par la Sécurité sociale",
+      "À obtenir un emploi",
+      "À voyager"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Une mutuelle santé complète la couverture de la Sécurité sociale en remboursant les frais non pris en charge.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+    "options": ["14 ans", "16 ans", "18 ans", "20 ans"],
+    "correctAnswer": 1,
+    "explanation": "L'école est obligatoire en France jusqu'à 16 ans.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "L'autorité parentale prévoit l'obligation :",
+    "options": ["De travailler", "De voter", "D'éduquer et de protéger les enfants", "De payer des impôts"],
+    "correctAnswer": 2,
+    "explanation": "L'autorité parentale inclut l'obligation d'éduquer, de protéger et de subvenir aux besoins des enfants.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Pour qui l'école est-elle obligatoire ?",
+    "options": [
+      "Pour tous les enfants de 3 à 16 ans",
+      "Seulement pour les filles",
+      "Seulement pour les garçons",
+      "Seulement pour les riches"
+    ],
+    "correctAnswer": 0,
+    "explanation": "L'école est obligatoire pour tous les enfants en France à partir de 3 ans jusqu'à 16 ans.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Quel diplôme obtient-on à la fin du lycée ?",
+    "options": ["Le Brevet", "Le BTS", "Le Baccalauréat", "La Licence"],
+    "correctAnswer": 2,
+    "explanation": "Le Baccalauréat est le diplôme obtenu à la fin des études au lycée en France.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?",
+    "options": ["À l'université", "Au collège", "Au lycée professionnel", "À l'école maternelle"],
+    "correctAnswer": 1,
+    "explanation": "Après l'école élémentaire, les élèves vont au collège (4 ans), puis au lycée (3 ans).",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Pour qui l'école est elle obligatoire ?",
+    "options": [
+      "Pour les adultes",
+      "Pour tous les enfants de 3 à 16 ans",
+      "Pour les enfants des écoles privées seulement",
+      "Pour les enfants riches seulement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'école est obligatoire pour tous les enfants de 3 à 16 ans en France, à l'école publique ou privée.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Un enfant inscrit à l'école :",
+    "options": [
+      "Peut rester à la maison s'il le veut",
+      "Doit se présenter régulièrement et respecter le règlement scolaire",
+      "Peut faire l'école à distance",
+      "N'a pas d'obligations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un enfant inscrit à l'école doit se présenter régulièrement et respecter le règlement scolaire, sinon l'absence peut être signalée.",
+    "category": "Vivre dans la Société Française"
+  },
+  {
+    "question": "Les enfants qui ne parlent pas français :",
+    "options": [
+      "Ne peuvent pas aller à l'école",
+      "Peuvent suivre l'école avec un soutien linguistique",
+      "Doivent attendre d'apprendre le français",
+      "Vont dans une école spéciale"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les enfants allophones (qui ne parlent pas français) peuvent suivre l'école régulière avec un soutien en français langue seconde.",
+    "category": "Vivre dans la Société Française"
+  }
+]

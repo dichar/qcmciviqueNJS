@@ -1,0 +1,2429 @@
+{
+  "versions": [
+    {
+      "version": 1,
+      "questions": [
+        {
+          "question": "Un salarié peut-il être licencié sans raison ?",
+          "options": [
+            "Oui",
+            "Non, il faut un motif valable",
+            "Seulement pendant l'essai",
+            "Seulement dans le privé"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tout licenciement doit être justifié par un motif réel et sérieux, sauf pendant la période d'essai.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel est le pouvoir du Président de la République en cas de crise grave ?",
+          "options": [
+            "Dissoudre le Parlement",
+            "Utiliser l'article 16 (pouvoirs exceptionnels)",
+            "Démissionner",
+            "Nommer un dictateur"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'article 16 permet au Président de prendre des pouvoirs exceptionnels en cas de crise grave.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Où peut-on obtenir de l'aide pour trouver un logement ?",
+          "options": [
+            "À la CAF et dans les services sociaux",
+            "Seulement chez les agents immobiliers privés",
+            "À la préfecture uniquement",
+            "Nulle part"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La CAF, les services sociaux et les associations peuvent aider à trouver un logement.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Quelle région française est connue pour ses vins ?",
+          "options": [
+            "Toutes ces réponses",
+            "La Bourgogne",
+            "Bordeaux",
+            "La Champagne"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La France compte de nombreuses régions viticoles célèbres : Bordeaux, Bourgogne, Champagne, Alsace, vallée du Rhône, etc.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Qui peut dissoudre l'Assemblée nationale ?",
+          "options": [
+            "Le Premier ministre",
+            "Le Président de la République",
+            "Le Sénat",
+            "Les députés eux-mêmes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Président de la République peut dissoudre l'Assemblée nationale.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quel philosophe français a écrit 'Le Contrat social' ?",
+          "options": [
+            "Voltaire",
+            "Rousseau",
+            "Montesquieu",
+            "Descartes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jean-Jacques Rousseau a écrit 'Du contrat social' en 1762.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Les enfants étrangers ont-ils le droit d'aller à l'école en France ?",
+          "options": [
+            "Non",
+            "Oui, comme tous les enfants",
+            "Seulement avec autorisation",
+            "Seulement dans des écoles privées"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tous les enfants résidant en France ont le droit et le devoir d'aller à l'école, quelle que soit leur nationalité.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Quelle est la monnaie commune de la plupart des pays de l'UE ?",
+          "options": [
+            "Le franc",
+            "Le dollar",
+            "L'euro",
+            "La livre"
+          ],
+          "correctAnswer": 2,
+          "explanation": "L'euro est la monnaie commune de 20 pays de l'Union européenne.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Où obtenir des cours de français gratuits ?",
+          "options": [
+            "Nulle part",
+            "Dans les associations, centres sociaux ou structures d'accueil",
+            "Seulement dans les écoles privées payantes",
+            "À la préfecture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "De nombreuses associations, centres sociaux et structures d'accueil proposent des cours de français gratuits ou peu coûteux.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "À partir de quel âge l'école est-elle obligatoire en France ?",
+          "options": [
+            "3 ans",
+            "5 ans",
+            "6 ans",
+            "7 ans"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Depuis 2019, l'instruction est obligatoire dès 3 ans et jusqu'à 16 ans.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Que se passe-t-il si le Président démissionne ou décède ?",
+          "options": [
+            "Le Premier ministre devient Président",
+            "Le Président du Sénat assure l'intérim",
+            "On attend 5 ans",
+            "L'Assemblée nomme un nouveau Président"
+          ],
+          "correctAnswer": 1,
+          "explanation": "En cas de vacance, le Président du Sénat assure l'intérim jusqu'à l'élection d'un nouveau Président.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Combien de tours y a-t-il pour l'élection présidentielle ?",
+          "options": [
+            "1 tour",
+            "2 tours maximum",
+            "3 tours",
+            "4 tours"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'élection présidentielle se déroule en 2 tours au maximum.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Combien de députés siègent à l'Assemblée nationale ?",
+          "options": [
+            "348",
+            "577",
+            "650",
+            "800"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'Assemblée nationale compte 577 députés élus au suffrage universel direct.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Peut-on manifester librement en France ?",
+          "options": [
+            "Oui, sans aucune condition",
+            "Oui, mais en déclarant la manifestation à la préfecture",
+            "Non, c'est interdit",
+            "Seulement le week-end"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le droit de manifester est garanti, mais doit être déclaré préalablement.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Doit-on respecter les décisions de justice ?",
+          "options": [
+            "Oui, c'est obligatoire",
+            "Non, c'est facultatif",
+            "Seulement si on est d'accord",
+            "Seulement pour les criminels"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Toute personne doit respecter et appliquer les décisions de justice.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "A-t-on le droit de se syndiquer en France ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement dans le public",
+            "Seulement dans le privé"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La liberté syndicale est un droit fondamental reconnu à tous les travailleurs.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel principe garantit que tous les citoyens ont les mêmes droits ?",
+          "options": [
+            "La liberté",
+            "L'égalité",
+            "La fraternité",
+            "La solidarité"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'égalité est le principe qui garantit que tous les citoyens ont les mêmes droits et devoirs.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Le mariage est-il autorisé entre personnes de même sexe en France ?",
+          "options": [
+            "Oui, depuis 2013",
+            "Non, c'est interdit",
+            "Seulement dans certaines régions",
+            "Oui, depuis 2000"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le mariage pour tous a été légalisé en France en 2013.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Que commémore le 8 mai en France ?",
+          "options": [
+            "La fin de la Première Guerre mondiale",
+            "La victoire de 1945",
+            "La prise de la Bastille",
+            "L'armistice de 1918"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le 8 mai commémore la victoire des Alliés et la fin de la Seconde Guerre mondiale en Europe (1945).",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Que signifie 'République' en français ?",
+          "options": [
+            "Pouvoir du roi",
+            "Chose publique",
+            "Gouvernement militaire",
+            "État religieux"
+          ],
+          "correctAnswer": 1,
+          "explanation": "République vient du latin 'res publica' qui signifie 'chose publique', le gouvernement appartient au peuple.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quelle est la deuxième plus grande ville de France ?",
+          "options": [
+            "Lyon",
+            "Marseille",
+            "Toulouse",
+            "Nice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Marseille est la deuxième plus grande ville de France après Paris.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quel est l'emblème national de la France ?",
+          "options": [
+            "Le coq gaulois",
+            "La tour Eiffel",
+            "Le drapeau tricolore",
+            "La fleur de lys"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Le drapeau tricolore bleu, blanc, rouge est l'emblème national officiel de la France depuis 1794.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quelle couleur du drapeau français représente traditionnellement la royauté ?",
+          "options": [
+            "Le bleu",
+            "Le blanc",
+            "Le rouge",
+            "Aucune"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le blanc représente traditionnellement la royauté, le bleu et le rouge sont les couleurs de Paris.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Le droit de grève est-il reconnu en France ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement dans le privé",
+            "Seulement dans le public"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le droit de grève est un droit constitutionnel reconnu en France.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "En quelle année la Seconde Guerre mondiale s'est-elle terminée ?",
+          "options": [
+            "1918",
+            "1939",
+            "1944",
+            "1945"
+          ],
+          "correctAnswer": 3,
+          "explanation": "La Seconde Guerre mondiale s'est terminée en 1945.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Où doit-on s'inscrire quand on arrive dans une nouvelle commune ?",
+          "options": [
+            "À la préfecture",
+            "À la mairie",
+            "Au commissariat",
+            "À la poste"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Il est recommandé de s'inscrire à la mairie de sa nouvelle commune de résidence.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Qui a écrit 'Candide' ?",
+          "options": [
+            "Voltaire",
+            "Rousseau",
+            "Montesquieu",
+            "Diderot"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Voltaire a écrit 'Candide' en 1759, une œuvre majeure des Lumières.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "La laïcité garantit-elle la liberté de conscience ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement pour les chrétiens",
+            "Seulement pour les athées"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La laïcité garantit à chacun la liberté de croire ou de ne pas croire.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Est-il obligatoire de voter en France ?",
+          "options": [
+            "Oui, sous peine d'amende",
+            "Non, c'est un droit mais pas une obligation",
+            "Oui, seulement aux élections présidentielles",
+            "Oui, pour tous les majeurs"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le vote est un droit en France, mais pas une obligation légale.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "À partir de quel âge peut-on travailler en France ?",
+          "options": [
+            "14 ans",
+            "16 ans",
+            "18 ans",
+            "21 ans"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'âge minimum légal pour travailler est 16 ans, sauf dérogations exceptionnelles.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "En quelle année a été adoptée la loi de séparation des Églises et de l'État ?",
+          "options": [
+            "1789",
+            "1905",
+            "1958",
+            "1968"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La loi de 1905 établit la séparation des Églises et de l'État, fondement de la laïcité française.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Que représente Marianne ?",
+          "options": [
+            "Une reine de France",
+            "La République française",
+            "Une sainte catholique",
+            "Une héroïne de guerre"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Marianne est la figure symbolique de la République française et de ses valeurs.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Doit-on respecter l'environnement en France ?",
+          "options": [
+            "Non, c'est facultatif",
+            "Oui, c'est un devoir inscrit dans la Constitution",
+            "Seulement dans les parcs",
+            "Seulement à la campagne"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Charte de l'environnement de 2004, intégrée à la Constitution, fait du respect de l'environnement un devoir.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "La France est-elle un État laïque ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement à Paris",
+            "Uniquement pour les fonctionnaires"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La France est un État laïque depuis 1905, garantissant la séparation entre l'État et les religions.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quelle valeur de la République promeut la solidarité entre les citoyens ?",
+          "options": [
+            "Liberté",
+            "Égalité",
+            "Fraternité",
+            "Justice"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La fraternité encourage la solidarité et l'entraide entre tous les citoyens.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Combien de régions compte la France métropolitaine ?",
+          "options": [
+            "12",
+            "13",
+            "18",
+            "22"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La France métropolitaine compte 13 régions depuis la réforme territoriale de 2016.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quel hymne national est chanté lors des cérémonies officielles ?",
+          "options": [
+            "Le Chant des Partisans",
+            "La Marseillaise",
+            "Le Temps des Cerises",
+            "La Carmagnole"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Marseillaise, composée en 1792, est l'hymne national français depuis 1879.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Qui a peint 'La Liberté guidant le peuple' ?",
+          "options": [
+            "Delacroix",
+            "David",
+            "Ingres",
+            "Courbet"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Eugène Delacroix a peint 'La Liberté guidant le peuple' en 1830.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Qu'est-ce que la trêve hivernale ?",
+          "options": [
+            "L'interdiction d'expulser pendant l'hiver",
+            "Les vacances d'hiver",
+            "La fermeture des tribunaux",
+            "Les soldes d'hiver"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Du 1er novembre au 31 mars, il est interdit d'expulser les locataires de leur logement.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle est la devise de la République française ?",
+          "options": [
+            "Honneur et Patrie",
+            "Liberté, Égalité, Fraternité",
+            "Force et Justice",
+            "Unité et Diversité"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La devise de la République française est 'Liberté, Égalité, Fraternité' depuis la Révolution française.",
+          "category": "Principes et valeurs"
+        }
+      ]
+    },
+    {
+      "version": 2,
+      "questions": [
+        {
+          "question": "A-t-on le droit de se syndiquer en France ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement dans le public",
+            "Seulement dans le privé"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La liberté syndicale est un droit fondamental reconnu à tous les travailleurs.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Que risque-t-on si on ne paie pas ses impôts ?",
+          "options": [
+            "Rien",
+            "Des pénalités et poursuites",
+            "La prison immédiate",
+            "L'expulsion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le non-paiement des impôts entraîne des majorations, pénalités et poursuites.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle institution vérifie que les lois sont conformes à la Constitution ?",
+          "options": [
+            "Le Conseil d'État",
+            "Le Conseil constitutionnel",
+            "La Cour de cassation",
+            "Le Parlement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Conseil constitutionnel veille à la conformité des lois avec la Constitution.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Qu'est-ce que la Sécurité sociale ?",
+          "options": [
+            "Une police spéciale",
+            "Un système de protection sociale",
+            "Une association",
+            "Un impôt"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Sécurité sociale est le système français de protection sociale (santé, retraite, famille).",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel document officiel prouve son identité en France ?",
+          "options": [
+            "Un permis de conduire",
+            "Une carte d'identité ou un passeport",
+            "Une facture",
+            "Un acte de naissance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La carte d'identité et le passeport sont les documents officiels d'identité en France.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Est-il obligatoire de voter en France ?",
+          "options": [
+            "Oui, sous peine d'amende",
+            "Non, c'est un droit mais pas une obligation",
+            "Oui, seulement aux élections présidentielles",
+            "Oui, pour tous les majeurs"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le vote est un droit en France, mais pas une obligation légale.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "En quelle année l'esclavage a-t-il été définitivement aboli en France ?",
+          "options": [
+            "1789",
+            "1794",
+            "1848",
+            "1905"
+          ],
+          "correctAnswer": 2,
+          "explanation": "L'esclavage a été définitivement aboli en France en 1848.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Combien de départements y a-t-il en France métropolitaine ?",
+          "options": [
+            "96",
+            "101",
+            "95",
+            "100"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La France métropolitaine compte 96 départements.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quelle chaîne de montagnes sépare la France de l'Italie ?",
+          "options": [
+            "Les Alpes",
+            "Les Pyrénées",
+            "Le Massif central",
+            "Les Vosges"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Les Alpes séparent la France de l'Italie et de la Suisse.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "La France fait-elle partie de l'Union européenne ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement depuis 2000",
+            "Elle l'a quittée"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La France est membre fondateur de l'Union européenne depuis 1957.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quelle est la première valeur de la devise républicaine ?",
+          "options": [
+            "Égalité",
+            "Liberté",
+            "Fraternité",
+            "Justice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La devise commence par 'Liberté', suivie d'Égalité et de Fraternité.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quelle fête nationale célèbre-t-on le 14 juillet ?",
+          "options": [
+            "La Révolution française",
+            "La prise de la Bastille",
+            "La fête de la République",
+            "L'armistice de 1918"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le 14 juillet commémore la prise de la Bastille le 14 juillet 1789, symbole de la Révolution française.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "La devise 'Liberté, Égalité, Fraternité' date de quelle période ?",
+          "options": [
+            "Moyen Âge",
+            "Révolution française",
+            "Seconde Guerre mondiale",
+            "Années 1960"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cette devise est née pendant la Révolution française de 1789.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Où obtenir des cours de français gratuits ?",
+          "options": [
+            "Nulle part",
+            "Dans les associations, centres sociaux, ou via l'OFII",
+            "Seulement dans les écoles privées payantes",
+            "À la préfecture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "De nombreuses associations, centres sociaux et l'OFII proposent des cours de français gratuits ou peu coûteux.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Que représente Marianne ?",
+          "options": [
+            "Une reine de France",
+            "La République française",
+            "Une sainte catholique",
+            "Une héroïne de guerre"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Marianne est la figure symbolique de la République française et de ses valeurs.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Que signifie 'République' en français ?",
+          "options": [
+            "Pouvoir du roi",
+            "Chose publique",
+            "Gouvernement militaire",
+            "État religieux"
+          ],
+          "correctAnswer": 1,
+          "explanation": "République vient du latin 'res publica' qui signifie 'chose publique', le gouvernement appartient au peuple.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel hymne national est chanté lors des cérémonies officielles ?",
+          "options": [
+            "Le Chant des Partisans",
+            "La Marseillaise",
+            "Le Temps des Cerises",
+            "La Carmagnole"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Marseillaise, composée en 1792, est l'hymne national français depuis 1879.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Où peut-on consulter un médecin gratuitement ou à moindre coût ?",
+          "options": [
+            "À l'hôpital uniquement",
+            "Dans un centre de santé ou PMI",
+            "Nulle part",
+            "Seulement en clinique privée"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Les centres de santé et PMI (Protection Maternelle et Infantile) offrent des consultations gratuites ou à tarif réduit.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Quel est le numéro du SAMU (urgences médicales) ?",
+          "options": [
+            "15",
+            "17",
+            "18",
+            "112"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le 15 est le numéro du SAMU pour les urgences médicales.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "La laïcité garantit-elle la liberté de conscience ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement pour les chrétiens",
+            "Seulement pour les athées"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La laïcité garantit à chacun la liberté de croire ou de ne pas croire.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel est l'emblème national de la France ?",
+          "options": [
+            "Le coq gaulois",
+            "La tour Eiffel",
+            "Le drapeau tricolore",
+            "La fleur de lys"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Le drapeau tricolore bleu, blanc, rouge est l'emblème national officiel de la France depuis 1794.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Combien de pays comptent l'Union européenne actuellement ?",
+          "options": [
+            "15",
+            "25",
+            "27",
+            "30"
+          ],
+          "correctAnswer": 2,
+          "explanation": "L'Union européenne compte 27 pays membres depuis le Brexit.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Combien de tours y a-t-il pour l'élection présidentielle ?",
+          "options": [
+            "1 tour",
+            "2 tours maximum",
+            "3 tours",
+            "4 tours"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'élection présidentielle se déroule en 2 tours au maximum.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Qui était Molière ?",
+          "options": [
+            "Un roi",
+            "Un dramaturge et acteur",
+            "Un peintre",
+            "Un philosophe"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Molière était un dramaturge et acteur français du XVIIe siècle, auteur de nombreuses comédies célèbres.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Le mariage est-il autorisé entre personnes de même sexe en France ?",
+          "options": [
+            "Oui, depuis 2013",
+            "Non, c'est interdit",
+            "Seulement dans certaines régions",
+            "Oui, depuis 2000"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le mariage pour tous a été légalisé en France en 2013.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Que se passe-t-il si le Président démissionne ou décède ?",
+          "options": [
+            "Le Premier ministre devient Président",
+            "Le Président du Sénat assure l'intérim",
+            "On attend 5 ans",
+            "L'Assemblée nomme un nouveau Président"
+          ],
+          "correctAnswer": 1,
+          "explanation": "En cas de vacance, le Président du Sénat assure l'intérim jusqu'à l'élection d'un nouveau Président.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quelle valeur de la République promeut la solidarité entre les citoyens ?",
+          "options": [
+            "Liberté",
+            "Égalité",
+            "Fraternité",
+            "Justice"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La fraternité encourage la solidarité et l'entraide entre tous les citoyens.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel scientifique français a découvert le radium avec sa femme ?",
+          "options": [
+            "Louis Pasteur",
+            "Pierre Curie",
+            "Antoine Lavoisier",
+            "Blaise Pascal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pierre et Marie Curie ont découvert le radium et reçu le prix Nobel de physique.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Où trouve-t-on le buste de Marianne ?",
+          "options": [
+            "Dans les écoles uniquement",
+            "Dans les mairies",
+            "Dans les églises",
+            "Dans les entreprises"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le buste de Marianne est présent dans toutes les mairies de France.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel peintre français est célèbre pour ses tableaux de nymphéas ?",
+          "options": [
+            "Monet",
+            "Renoir",
+            "Cézanne",
+            "Degas"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Claude Monet est célèbre pour sa série de tableaux représentant des nymphéas.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Peut-on porter plainte au commissariat gratuitement ?",
+          "options": [
+            "Oui",
+            "Non, il faut payer",
+            "Seulement pour les crimes graves",
+            "Seulement si on est français"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Porter plainte est gratuit et accessible à tous.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle chaîne de montagnes sépare la France de l'Espagne ?",
+          "options": [
+            "Les Alpes",
+            "Les Pyrénées",
+            "Le Jura",
+            "Les Vosges"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Les Pyrénées forment une frontière naturelle entre la France et l'Espagne.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quelle est la Constitution actuelle de la France ?",
+          "options": [
+            "Constitution de la IIIe République",
+            "Constitution de la IVe République",
+            "Constitution de la Ve République",
+            "Constitution de la VIe République"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La France vit sous la Constitution de la Ve République adoptée en 1958.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Les enfants étrangers ont-ils le droit d'aller à l'école en France ?",
+          "options": [
+            "Non",
+            "Oui, comme tous les enfants",
+            "Seulement avec autorisation",
+            "Seulement dans des écoles privées"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tous les enfants résidant en France ont le droit et le devoir d'aller à l'école, quelle que soit leur nationalité.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "A-t-on le droit à des congés payés en France ?",
+          "options": [
+            "Oui, 5 semaines par an minimum",
+            "Non",
+            "Seulement 2 semaines",
+            "Seulement dans le public"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Tout salarié a droit à au moins 5 semaines de congés payés par an.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Le coq gaulois est-il un symbole officiel de la France ?",
+          "options": [
+            "Oui, c'est l'emblème national",
+            "Non, mais c'est un symbole historique",
+            "Oui, depuis 2000",
+            "Non, c'est interdit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le coq est un symbole historique de la France, mais pas un emblème officiel comme le drapeau.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Doit-on respecter l'environnement en France ?",
+          "options": [
+            "Non, c'est facultatif",
+            "Oui, c'est un devoir inscrit dans la Constitution",
+            "Seulement dans les parcs",
+            "Seulement à la campagne"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Charte de l'environnement de 2004, intégrée à la Constitution, fait du respect de l'environnement un devoir.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel document garantit les droits fondamentaux en France ?",
+          "options": [
+            "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "Le Code civil",
+            "Le traité de Rome",
+            "La Charte de l'ONU"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La Déclaration des Droits de l'Homme et du Citoyen de 1789 est le texte fondateur des libertés en France.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle est la capitale de la France ?",
+          "options": [
+            "Lyon",
+            "Marseille",
+            "Paris",
+            "Bordeaux"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Paris est la capitale de la France et sa plus grande ville.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quel est le numéro pour appeler la police en France ?",
+          "options": [
+            "15",
+            "17",
+            "18",
+            "112"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le 17 est le numéro de la police nationale et de la gendarmerie.",
+          "category": "Droits et devoirs"
+        }
+      ]
+    },
+    {
+      "version": 3,
+      "questions": [
+        {
+          "question": "Quelle est la capitale de la France ?",
+          "options": [
+            "Lyon",
+            "Marseille",
+            "Paris",
+            "Bordeaux"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Paris est la capitale de la France et sa plus grande ville.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+          "options": [
+            "L'Arc de Triomphe",
+            "La Tour Eiffel",
+            "Notre-Dame",
+            "Le Sacré-Cœur"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Tour Eiffel a été construite par Gustave Eiffel pour l'Exposition universelle de 1889.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Que risque-t-on si on ne paie pas ses impôts ?",
+          "options": [
+            "Rien",
+            "Des pénalités et poursuites",
+            "La prison immédiate",
+            "L'expulsion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le non-paiement des impôts entraîne des majorations, pénalités et poursuites.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel est le numéro pour appeler la police en France ?",
+          "options": [
+            "15",
+            "17",
+            "18",
+            "112"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le 17 est le numéro de la police nationale et de la gendarmerie.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Dans un espace public, peut-on interdire à quelqu'un de porter un signe religieux visible ?",
+          "options": [
+            "Oui, toujours",
+            "Non, jamais",
+            "Oui, dans certains cas spécifiques (école publique, fonction publique)",
+            "Seulement pour les musulmans"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La laïcité impose des restrictions dans certains lieux (écoles publiques, services publics) mais pas dans tout l'espace public.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Peut-on refuser de témoigner devant un tribunal ?",
+          "options": [
+            "Oui, toujours",
+            "Non, sauf cas particuliers (famille proche)",
+            "Oui, si on n'a rien vu",
+            "Non, jamais"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le témoignage est obligatoire, sauf pour les proches de l'accusé.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "La République française est indivisible. Que signifie ce principe ?",
+          "options": [
+            "On ne peut pas diviser le territoire",
+            "Tous les citoyens sont égaux devant la loi sur tout le territoire",
+            "Il n'y a qu'un seul parti politique",
+            "Il n'y a qu'une seule langue officielle"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'indivisibilité signifie que la loi est la même pour tous les citoyens sur l'ensemble du territoire.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Peut-on discriminer quelqu'un en raison de sa religion en France ?",
+          "options": [
+            "Oui",
+            "Non, c'est interdit par la loi",
+            "Oui, dans certains cas",
+            "Non, sauf au travail"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Toute discrimination est interdite par la loi française et punie pénalement.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "La devise 'Liberté, Égalité, Fraternité' date de quelle période ?",
+          "options": [
+            "Moyen Âge",
+            "Révolution française",
+            "Seconde Guerre mondiale",
+            "Années 1960"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cette devise est née pendant la Révolution française de 1789.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Qu'est-ce que la laïcité en France ?",
+          "options": [
+            "L'interdiction de toute religion",
+            "La séparation de l'Église et de l'État",
+            "L'obligation d'être catholique",
+            "La promotion d'une seule religion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La laïcité garantit la liberté de conscience et sépare l'État des organisations religieuses, selon la loi de 1905.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel est l'âge de la majorité en France ?",
+          "options": [
+            "16 ans",
+            "18 ans",
+            "21 ans",
+            "25 ans"
+          ],
+          "correctAnswer": 1,
+          "explanation": "On devient majeur à 18 ans en France.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle chaîne de montagnes sépare la France de l'Espagne ?",
+          "options": [
+            "Les Alpes",
+            "Les Pyrénées",
+            "Le Jura",
+            "Les Vosges"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Les Pyrénées forment une frontière naturelle entre la France et l'Espagne.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Où s'adresser en cas de problème avec son employeur ?",
+          "options": [
+            "À la police",
+            "À l'inspection du travail ou aux Prud'hommes",
+            "À la mairie",
+            "Nulle part"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'inspection du travail et le conseil de Prud'hommes traitent les litiges entre employeurs et salariés.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Les allocations familiales sont-elles réservées aux Français ?",
+          "options": [
+            "Oui",
+            "Non, tous les résidents réguliers y ont droit",
+            "Seulement aux Européens",
+            "Seulement aux riches"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Toute personne résidant régulièrement en France avec des enfants à charge peut bénéficier des allocations familiales.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Combien de régions compte la France métropolitaine ?",
+          "options": [
+            "12",
+            "13",
+            "18",
+            "22"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La France métropolitaine compte 13 régions depuis la réforme territoriale de 2016.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quel événement historique s'est produit en mai 1968 ?",
+          "options": [
+            "Une révolution",
+            "Des manifestations étudiantes et ouvrières",
+            "Une guerre",
+            "Une élection"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mai 1968 a été marqué par d'importantes manifestations étudiantes et ouvrières en France.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quelle couleur du drapeau français représente traditionnellement la royauté ?",
+          "options": [
+            "Le bleu",
+            "Le blanc",
+            "Le rouge",
+            "Aucune"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le blanc représente traditionnellement la royauté, le bleu et le rouge sont les couleurs de Paris.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Combien de sénateurs y a-t-il en France ?",
+          "options": [
+            "348",
+            "577",
+            "200",
+            "150"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le Sénat compte 348 sénateurs élus au suffrage universel indirect.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Le coq gaulois est-il un symbole officiel de la France ?",
+          "options": [
+            "Oui, c'est l'emblème national",
+            "Non, mais c'est un symbole historique",
+            "Oui, depuis 2000",
+            "Non, c'est interdit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le coq est un symbole historique de la France, mais pas un emblème officiel comme le drapeau.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel est le musée le plus visité de France ?",
+          "options": [
+            "Le musée d'Orsay",
+            "Le Louvre",
+            "Le Centre Pompidou",
+            "Le musée Rodin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Louvre est le musée le plus visité de France et l'un des plus grands au monde.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Les parents doivent-ils assurer l'instruction de leurs enfants ?",
+          "options": [
+            "Oui, c'est obligatoire",
+            "Non, c'est facultatif",
+            "Seulement jusqu'à 10 ans",
+            "Seulement pour les garçons"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Les parents ont l'obligation légale d'assurer l'instruction de leurs enfants de 3 à 16 ans.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelles sont les deux assemblées qui composent le Parlement français ?",
+          "options": [
+            "Le Sénat et la Chambre des députés",
+            "L'Assemblée nationale et le Sénat",
+            "Le Congrès et le Sénat",
+            "La Chambre haute et la Chambre basse"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Parlement français est composé de l'Assemblée nationale et du Sénat.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Que représente Marianne ?",
+          "options": [
+            "Une reine de France",
+            "La République française",
+            "Une sainte catholique",
+            "Une héroïne de guerre"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Marianne est la figure symbolique de la République française et de ses valeurs.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Combien de pays comptent l'Union européenne actuellement ?",
+          "options": [
+            "15",
+            "25",
+            "27",
+            "30"
+          ],
+          "correctAnswer": 2,
+          "explanation": "L'Union européenne compte 27 pays membres depuis le Brexit.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quel principe garantit qu'une personne est innocente jusqu'à preuve du contraire ?",
+          "options": [
+            "La présomption d'innocence",
+            "Le droit de vote",
+            "La liberté d'expression",
+            "Le droit de grève"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La présomption d'innocence est un principe fondamental du droit français.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Les enfants étrangers ont-ils le droit d'aller à l'école en France ?",
+          "options": [
+            "Non",
+            "Oui, comme tous les enfants",
+            "Seulement avec autorisation",
+            "Seulement dans des écoles privées"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tous les enfants résidant en France ont le droit et le devoir d'aller à l'école, quelle que soit leur nationalité.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Qui a écrit 'Candide' ?",
+          "options": [
+            "Voltaire",
+            "Rousseau",
+            "Montesquieu",
+            "Diderot"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Voltaire a écrit 'Candide' en 1759, une œuvre majeure des Lumières.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Les trois couleurs du drapeau français représentent :",
+          "options": [
+            "Paris (bleu et rouge) et la royauté (blanc)",
+            "Le ciel, les nuages et le sang",
+            "La mer, la neige et le feu",
+            "Les trois régions de France"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le bleu et le rouge sont les couleurs de Paris, le blanc représente la royauté.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Où trouve-t-on le buste de Marianne ?",
+          "options": [
+            "Dans les écoles uniquement",
+            "Dans les mairies",
+            "Dans les églises",
+            "Dans les entreprises"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le buste de Marianne est présent dans toutes les mairies de France.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Où se rendre pour des démarches administratives importantes ?",
+          "options": [
+            "À la mairie et à la préfecture",
+            "Seulement à la police",
+            "Seulement à la poste",
+            "Dans les centres commerciaux"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La mairie et la préfecture sont les principaux lieux pour les démarches administratives.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Peut-on être discriminé pour son origine en France ?",
+          "options": [
+            "Oui",
+            "Non, c'est interdit et puni par la loi",
+            "Seulement au travail",
+            "Seulement dans le logement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Toute discrimination basée sur l'origine est interdite et constitue un délit.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Qui élit les députés de l'Assemblée nationale ?",
+          "options": [
+            "Le Président",
+            "Les sénateurs",
+            "Les citoyens au suffrage universel direct",
+            "Les maires"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Les députés sont élus directement par les citoyens français pour 5 ans.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Où siège le Parlement européen ?",
+          "options": [
+            "Paris et Bruxelles",
+            "Strasbourg et Bruxelles",
+            "Berlin et Rome",
+            "Londres et Madrid"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Parlement européen siège principalement à Strasbourg et Bruxelles.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Qui nomme le Premier ministre en France ?",
+          "options": [
+            "Les citoyens par élection",
+            "L'Assemblée nationale",
+            "Le Président de la République",
+            "Le Sénat"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Le Président de la République nomme le Premier ministre, qui dirige l'action du gouvernement.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quel est le symbole féminin de la République française ?",
+          "options": [
+            "Jeanne d'Arc",
+            "Marie-Antoinette",
+            "Marianne",
+            "La Dame de fer"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Marianne incarne la République française depuis la Révolution.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Doit-on respecter l'environnement en France ?",
+          "options": [
+            "Non, c'est facultatif",
+            "Oui, c'est un devoir inscrit dans la Constitution",
+            "Seulement dans les parcs",
+            "Seulement à la campagne"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Charte de l'environnement de 2004, intégrée à la Constitution, fait du respect de l'environnement un devoir.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle est la première valeur de la devise républicaine ?",
+          "options": [
+            "Égalité",
+            "Liberté",
+            "Fraternité",
+            "Justice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La devise commence par 'Liberté', suivie d'Égalité et de Fraternité.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quelle région française est connue pour ses vins ?",
+          "options": [
+            "Toutes ces réponses",
+            "La Bourgogne",
+            "Bordeaux",
+            "La Champagne"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La France compte de nombreuses régions viticoles célèbres : Bordeaux, Bourgogne, Champagne, Alsace, vallée du Rhône, etc.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Qu'est-ce que Pôle emploi ?",
+          "options": [
+            "Un syndicat",
+            "Le service public de l'emploi",
+            "Une entreprise privée",
+            "Une association"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pôle emploi est le service public qui accompagne les demandeurs d'emploi et verse les allocations chômage.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Qu'est-ce que la CMU (Couverture Maladie Universelle) ?",
+          "options": [
+            "Une mutuelle privée",
+            "Une protection santé pour les personnes à faibles revenus",
+            "Une assurance voiture",
+            "Un crédit bancaire"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La CMU (devenue Complémentaire santé solidaire) offre une protection santé aux personnes à faibles revenus.",
+          "category": "Vivre en France"
+        }
+      ]
+    },
+    {
+      "version": 4,
+      "questions": [
+        {
+          "question": "Les trois couleurs du drapeau français représentent :",
+          "options": [
+            "Paris (bleu et rouge) et la royauté (blanc)",
+            "Le ciel, les nuages et le sang",
+            "La mer, la neige et le feu",
+            "Les trois régions de France"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le bleu et le rouge sont les couleurs de Paris, le blanc représente la royauté.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Où se rendre pour des démarches administratives importantes ?",
+          "options": [
+            "À la mairie et à la préfecture",
+            "Seulement à la police",
+            "Seulement à la poste",
+            "Dans les centres commerciaux"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La mairie et la préfecture sont les principaux lieux pour les démarches administratives.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Quel est le numéro pour appeler la police en France ?",
+          "options": [
+            "15",
+            "17",
+            "18",
+            "112"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le 17 est le numéro de la police nationale et de la gendarmerie.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Que risque-t-on si on ne paie pas ses impôts ?",
+          "options": [
+            "Rien",
+            "Des pénalités et poursuites",
+            "La prison immédiate",
+            "L'expulsion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le non-paiement des impôts entraîne des majorations, pénalités et poursuites.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Qu'est-ce que la CMU (Couverture Maladie Universelle) ?",
+          "options": [
+            "Une mutuelle privée",
+            "Une protection santé pour les personnes à faibles revenus",
+            "Une assurance voiture",
+            "Un crédit bancaire"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La CMU (devenue Complémentaire santé solidaire) offre une protection santé aux personnes à faibles revenus.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "La devise 'Liberté, Égalité, Fraternité' date de quelle période ?",
+          "options": [
+            "Moyen Âge",
+            "Révolution française",
+            "Seconde Guerre mondiale",
+            "Années 1960"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cette devise est née pendant la Révolution française de 1789.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quelle est la durée légale du travail en France ?",
+          "options": [
+            "32 heures par semaine",
+            "35 heures par semaine",
+            "40 heures par semaine",
+            "45 heures par semaine"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La durée légale du travail en France est de 35 heures par semaine depuis 2000.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Dans un espace public, peut-on interdire à quelqu'un de porter un signe religieux visible ?",
+          "options": [
+            "Oui, toujours",
+            "Non, jamais",
+            "Oui, dans certains cas spécifiques (école publique, fonction publique)",
+            "Seulement pour les musulmans"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La laïcité impose des restrictions dans certains lieux (écoles publiques, services publics) mais pas dans tout l'espace public.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel est le numéro du SAMU (urgences médicales) ?",
+          "options": [
+            "15",
+            "17",
+            "18",
+            "112"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le 15 est le numéro du SAMU pour les urgences médicales.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quels pays sont frontaliers de la France ?",
+          "options": [
+            "Allemagne, Italie, Espagne uniquement",
+            "Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne, Andorre, Monaco",
+            "Seulement l'Espagne et l'Italie",
+            "Angleterre et Portugal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La France partage ses frontières avec 8 pays : Belgique, Luxembourg, Allemagne, Suisse, Italie, Monaco, Espagne et Andorre.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "À partir de quel âge peut-on travailler en France ?",
+          "options": [
+            "14 ans",
+            "16 ans",
+            "18 ans",
+            "21 ans"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'âge minimum légal pour travailler est 16 ans, sauf dérogations exceptionnelles.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle est la plus haute juridiction administrative en France ?",
+          "options": [
+            "La Cour de cassation",
+            "Le Conseil d'État",
+            "Le Conseil constitutionnel",
+            "Le Tribunal administratif"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Conseil d'État est la plus haute juridiction de l'ordre administratif.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quelle est la devise de la République française ?",
+          "options": [
+            "Honneur et Patrie",
+            "Liberté, Égalité, Fraternité",
+            "Force et Justice",
+            "Unité et Diversité"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La devise de la République française est 'Liberté, Égalité, Fraternité' depuis la Révolution française.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "En quelle année a été adoptée la loi de séparation des Églises et de l'État ?",
+          "options": [
+            "1789",
+            "1905",
+            "1958",
+            "1968"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La loi de 1905 établit la séparation des Églises et de l'État, fondement de la laïcité française.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel principe républicain garantit l'égalité des chances ?",
+          "options": [
+            "L'indivisibilité",
+            "L'égalité devant la loi",
+            "La démocratie",
+            "Le suffrage universel"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'égalité devant la loi garantit que tous les citoyens ont les mêmes droits et les mêmes chances.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel est le musée le plus visité de France ?",
+          "options": [
+            "Le musée d'Orsay",
+            "Le Louvre",
+            "Le Centre Pompidou",
+            "Le musée Rodin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Louvre est le musée le plus visité de France et l'un des plus grands au monde.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quel est le point culminant de la France ?",
+          "options": [
+            "Le Mont Blanc",
+            "Le Pic du Midi",
+            "Le Puy de Dôme",
+            "Le Mont Ventoux"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le Mont Blanc (4 808 m) est le point culminant de la France et de l'Europe occidentale.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "En quelle année les lois Jules Ferry ont-elles rendu l'école gratuite et obligatoire ?",
+          "options": [
+            "1789",
+            "1881-1882",
+            "1905",
+            "1945"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Les lois Jules Ferry de 1881-1882 ont instauré l'école gratuite, laïque et obligatoire.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "La Sécurité sociale garantit-elle l'accès aux soins pour tous ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement pour les Français",
+            "Seulement pour les riches"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La Sécurité sociale garantit l'accès aux soins pour tous les résidents en France.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Qui était Molière ?",
+          "options": [
+            "Un roi",
+            "Un dramaturge et acteur",
+            "Un peintre",
+            "Un philosophe"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Molière était un dramaturge et acteur français du XVIIe siècle, auteur de nombreuses comédies célèbres.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Peut-on discriminer quelqu'un en raison de sa religion en France ?",
+          "options": [
+            "Oui",
+            "Non, c'est interdit par la loi",
+            "Oui, dans certains cas",
+            "Non, sauf au travail"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Toute discrimination est interdite par la loi française et punie pénalement.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Que signifie 'République' en français ?",
+          "options": [
+            "Pouvoir du roi",
+            "Chose publique",
+            "Gouvernement militaire",
+            "État religieux"
+          ],
+          "correctAnswer": 1,
+          "explanation": "République vient du latin 'res publica' qui signifie 'chose publique', le gouvernement appartient au peuple.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Qui élit les maires en France ?",
+          "options": [
+            "Les citoyens directement",
+            "Le conseil municipal",
+            "Le préfet",
+            "Le Président"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le maire est élu par le conseil municipal, lui-même élu par les citoyens.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quel fleuve traverse Paris ?",
+          "options": [
+            "La Loire",
+            "Le Rhône",
+            "La Seine",
+            "La Garonne"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La Seine traverse Paris d'est en ouest.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Qui a écrit 'Candide' ?",
+          "options": [
+            "Voltaire",
+            "Rousseau",
+            "Montesquieu",
+            "Diderot"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Voltaire a écrit 'Candide' en 1759, une œuvre majeure des Lumières.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Doit-on respecter l'environnement en France ?",
+          "options": [
+            "Non, c'est facultatif",
+            "Oui, c'est un devoir inscrit dans la Constitution",
+            "Seulement dans les parcs",
+            "Seulement à la campagne"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Charte de l'environnement de 2004, intégrée à la Constitution, fait du respect de l'environnement un devoir.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Qu'est-ce qu'un référendum ?",
+          "options": [
+            "Une élection présidentielle",
+            "Un vote direct des citoyens sur une question",
+            "Une réunion du Parlement",
+            "Un débat télévisé"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Un référendum permet aux citoyens de voter directement sur une question importante.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Où siège le Parlement européen ?",
+          "options": [
+            "Paris et Bruxelles",
+            "Strasbourg et Bruxelles",
+            "Berlin et Rome",
+            "Londres et Madrid"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Parlement européen siège principalement à Strasbourg et Bruxelles.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Peut-on créer une association en France librement ?",
+          "options": [
+            "Oui, c'est un droit",
+            "Non, c'est interdit",
+            "Seulement avec autorisation préfectorale",
+            "Seulement pour les Français"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La liberté d'association est garantie par la loi de 1901.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel est l'emblème national de la France ?",
+          "options": [
+            "Le coq gaulois",
+            "La tour Eiffel",
+            "Le drapeau tricolore",
+            "La fleur de lys"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Le drapeau tricolore bleu, blanc, rouge est l'emblème national officiel de la France depuis 1794.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Peut-on être expulsé de son logement sans décision de justice ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement en été",
+            "Seulement si on ne paie pas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Une expulsion nécessite une décision de justice et ne peut se faire pendant la trêve hivernale.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Où trouve-t-on le buste de Marianne ?",
+          "options": [
+            "Dans les écoles uniquement",
+            "Dans les mairies",
+            "Dans les églises",
+            "Dans les entreprises"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le buste de Marianne est présent dans toutes les mairies de France.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Qu'est-ce que la laïcité en France ?",
+          "options": [
+            "L'interdiction de toute religion",
+            "La séparation de l'Église et de l'État",
+            "L'obligation d'être catholique",
+            "La promotion d'une seule religion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La laïcité garantit la liberté de conscience et sépare l'État des organisations religieuses, selon la loi de 1905.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel principe garantit que tous les citoyens ont les mêmes droits ?",
+          "options": [
+            "La liberté",
+            "L'égalité",
+            "La fraternité",
+            "La solidarité"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'égalité est le principe qui garantit que tous les citoyens ont les mêmes droits et devoirs.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Qui prend en charge les frais médicaux de base en France ?",
+          "options": [
+            "Le patient paye tout",
+            "L'Assurance Maladie (Sécurité sociale)",
+            "L'employeur",
+            "La mairie"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'Assurance Maladie (Sécurité sociale) prend en charge une partie des frais médicaux, complétée par une mutuelle.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Doit-on payer des impôts en France ?",
+          "options": [
+            "Non",
+            "Oui, selon ses revenus",
+            "Seulement les riches",
+            "Seulement les étrangers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tous les résidents doivent contribuer aux dépenses publiques selon leurs capacités financières.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Combien de députés siègent à l'Assemblée nationale ?",
+          "options": [
+            "348",
+            "577",
+            "650",
+            "800"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'Assemblée nationale compte 577 députés élus au suffrage universel direct.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quel philosophe français a écrit 'Le Contrat social' ?",
+          "options": [
+            "Voltaire",
+            "Rousseau",
+            "Montesquieu",
+            "Descartes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jean-Jacques Rousseau a écrit 'Du contrat social' en 1762.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Les allocations familiales sont-elles réservées aux Français ?",
+          "options": [
+            "Oui",
+            "Non, tous les résidents réguliers y ont droit",
+            "Seulement aux Européens",
+            "Seulement aux riches"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Toute personne résidant régulièrement en France avec des enfants à charge peut bénéficier des allocations familiales.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel âge minimum faut-il avoir pour être élu Président de la République ?",
+          "options": [
+            "18 ans",
+            "21 ans",
+            "25 ans",
+            "35 ans"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Depuis 2011, il faut avoir 18 ans pour être candidat à la présidence.",
+          "category": "Système institutionnel"
+        }
+      ]
+    },
+    {
+      "version": 5,
+      "questions": [
+        {
+          "question": "Combien de sénateurs y a-t-il en France ?",
+          "options": [
+            "348",
+            "577",
+            "200",
+            "150"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le Sénat compte 348 sénateurs élus au suffrage universel indirect.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Qui était Molière ?",
+          "options": [
+            "Un roi",
+            "Un dramaturge et acteur",
+            "Un peintre",
+            "Un philosophe"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Molière était un dramaturge et acteur français du XVIIe siècle, auteur de nombreuses comédies célèbres.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "À partir de quel âge peut-on voter en France ?",
+          "options": [
+            "16 ans",
+            "18 ans",
+            "21 ans",
+            "25 ans"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le droit de vote est accordé à tous les citoyens français à partir de 18 ans.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quel roi a fait construire le château de Versailles ?",
+          "options": [
+            "Louis XIV",
+            "François Ier",
+            "Henri IV",
+            "Napoléon"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Louis XIV, le Roi Soleil, a fait construire et agrandi le château de Versailles.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Qu'est-ce qu'un référendum ?",
+          "options": [
+            "Une élection présidentielle",
+            "Un vote direct des citoyens sur une question",
+            "Une réunion du Parlement",
+            "Un débat télévisé"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Un référendum permet aux citoyens de voter directement sur une question importante.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "La République française est indivisible. Que signifie ce principe ?",
+          "options": [
+            "On ne peut pas diviser le territoire",
+            "Tous les citoyens sont égaux devant la loi sur tout le territoire",
+            "Il n'y a qu'un seul parti politique",
+            "Il n'y a qu'une seule langue officielle"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'indivisibilité signifie que la loi est la même pour tous les citoyens sur l'ensemble du territoire.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quelle est la devise de la République française ?",
+          "options": [
+            "Honneur et Patrie",
+            "Liberté, Égalité, Fraternité",
+            "Force et Justice",
+            "Unité et Diversité"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La devise de la République française est 'Liberté, Égalité, Fraternité' depuis la Révolution française.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Que risque-t-on si on ne paie pas ses impôts ?",
+          "options": [
+            "Rien",
+            "Des pénalités et poursuites",
+            "La prison immédiate",
+            "L'expulsion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le non-paiement des impôts entraîne des majorations, pénalités et poursuites.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quels pays sont frontaliers de la France ?",
+          "options": [
+            "Allemagne, Italie, Espagne uniquement",
+            "Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne, Andorre, Monaco",
+            "Seulement l'Espagne et l'Italie",
+            "Angleterre et Portugal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La France partage ses frontières avec 8 pays : Belgique, Luxembourg, Allemagne, Suisse, Italie, Monaco, Espagne et Andorre.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Qu'est-ce que la laïcité en France ?",
+          "options": [
+            "L'interdiction de toute religion",
+            "La séparation de l'Église et de l'État",
+            "L'obligation d'être catholique",
+            "La promotion d'une seule religion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La laïcité garantit la liberté de conscience et sépare l'État des organisations religieuses, selon la loi de 1905.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "En quelle année la Révolution française a-t-elle commencé ?",
+          "options": [
+            "1789",
+            "1799",
+            "1804",
+            "1815"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La Révolution française a commencé en 1789 avec la prise de la Bastille.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Peut-on ouvrir un compte bancaire en France sans être français ?",
+          "options": [
+            "Non",
+            "Oui, avec un titre de séjour et un justificatif de domicile",
+            "Seulement dans certaines banques",
+            "Seulement si on est riche"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tout résident peut ouvrir un compte bancaire avec un titre de séjour et un justificatif de domicile.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Doit-on payer des impôts en France ?",
+          "options": [
+            "Non",
+            "Oui, selon ses revenus",
+            "Seulement les riches",
+            "Seulement les étrangers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tous les résidents doivent contribuer aux dépenses publiques selon leurs capacités financières.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel est le numéro d'urgence européen ?",
+          "options": [
+            "15",
+            "17",
+            "18",
+            "112"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Le 112 est le numéro d'urgence européen. Le 15 (SAMU), 17 (police) et 18 (pompiers) sont aussi disponibles.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Où peut-on consulter un médecin gratuitement ou à moindre coût ?",
+          "options": [
+            "À l'hôpital uniquement",
+            "Dans un centre de santé ou PMI",
+            "Nulle part",
+            "Seulement en clinique privée"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Les centres de santé et PMI (Protection Maternelle et Infantile) offrent des consultations gratuites ou à tarif réduit.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Dans un espace public, peut-on interdire à quelqu'un de porter un signe religieux visible ?",
+          "options": [
+            "Oui, toujours",
+            "Non, jamais",
+            "Oui, dans certains cas spécifiques (école publique, fonction publique)",
+            "Seulement pour les musulmans"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La laïcité impose des restrictions dans certains lieux (écoles publiques, services publics) mais pas dans tout l'espace public.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Quel hymne national est chanté lors des cérémonies officielles ?",
+          "options": [
+            "Le Chant des Partisans",
+            "La Marseillaise",
+            "Le Temps des Cerises",
+            "La Carmagnole"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Marseillaise, composée en 1792, est l'hymne national français depuis 1879.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "À partir de quel âge l'école est-elle obligatoire en France ?",
+          "options": [
+            "3 ans",
+            "5 ans",
+            "6 ans",
+            "7 ans"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Depuis 2019, l'instruction est obligatoire dès 3 ans et jusqu'à 16 ans.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel est le numéro des pompiers en France ?",
+          "options": [
+            "15",
+            "17",
+            "18",
+            "112"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Le 18 est le numéro des sapeurs-pompiers.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quelle est la première valeur de la devise républicaine ?",
+          "options": [
+            "Égalité",
+            "Liberté",
+            "Fraternité",
+            "Justice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La devise commence par 'Liberté', suivie d'Égalité et de Fraternité.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Qui nomme le Premier ministre en France ?",
+          "options": [
+            "Les citoyens par élection",
+            "L'Assemblée nationale",
+            "Le Président de la République",
+            "Le Sénat"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Le Président de la République nomme le Premier ministre, qui dirige l'action du gouvernement.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Quelle est la mer qui borde le sud de la France ?",
+          "options": [
+            "La mer du Nord",
+            "La Manche",
+            "La Méditerranée",
+            "L'océan Atlantique"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La mer Méditerranée borde le sud de la France.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "La laïcité garantit-elle la liberté de conscience ?",
+          "options": [
+            "Oui",
+            "Non",
+            "Seulement pour les chrétiens",
+            "Seulement pour les athées"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La laïcité garantit à chacun la liberté de croire ou de ne pas croire.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Les trois couleurs du drapeau français représentent :",
+          "options": [
+            "Paris (bleu et rouge) et la royauté (blanc)",
+            "Le ciel, les nuages et le sang",
+            "La mer, la neige et le feu",
+            "Les trois régions de France"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Le bleu et le rouge sont les couleurs de Paris, le blanc représente la royauté.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Peut-on porter plainte au commissariat gratuitement ?",
+          "options": [
+            "Oui",
+            "Non, il faut payer",
+            "Seulement pour les crimes graves",
+            "Seulement si on est français"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Porter plainte est gratuit et accessible à tous.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Qui prend en charge les frais médicaux de base en France ?",
+          "options": [
+            "Le patient paye tout",
+            "L'Assurance Maladie (Sécurité sociale)",
+            "L'employeur",
+            "La mairie"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'Assurance Maladie (Sécurité sociale) prend en charge une partie des frais médicaux, complétée par une mutuelle.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Combien de départements y a-t-il en France métropolitaine ?",
+          "options": [
+            "96",
+            "101",
+            "95",
+            "100"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La France métropolitaine compte 96 départements.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quelle valeur de la République promeut la solidarité entre les citoyens ?",
+          "options": [
+            "Liberté",
+            "Égalité",
+            "Fraternité",
+            "Justice"
+          ],
+          "correctAnswer": 2,
+          "explanation": "La fraternité encourage la solidarité et l'entraide entre tous les citoyens.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Les parents doivent-ils assurer l'instruction de leurs enfants ?",
+          "options": [
+            "Oui, c'est obligatoire",
+            "Non, c'est facultatif",
+            "Seulement jusqu'à 10 ans",
+            "Seulement pour les garçons"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Les parents ont l'obligation légale d'assurer l'instruction de leurs enfants de 3 à 16 ans.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Que signifie 'République' en français ?",
+          "options": [
+            "Pouvoir du roi",
+            "Chose publique",
+            "Gouvernement militaire",
+            "État religieux"
+          ],
+          "correctAnswer": 1,
+          "explanation": "République vient du latin 'res publica' qui signifie 'chose publique', le gouvernement appartient au peuple.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "En quelle année l'esclavage a-t-il été définitivement aboli en France ?",
+          "options": [
+            "1789",
+            "1794",
+            "1848",
+            "1905"
+          ],
+          "correctAnswer": 2,
+          "explanation": "L'esclavage a été définitivement aboli en France en 1848.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Qui est le chef de l'État en France ?",
+          "options": [
+            "Le Premier ministre",
+            "Le Président de la République",
+            "Le Président de l'Assemblée nationale",
+            "Le maire de Paris"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le Président de la République est le chef de l'État français, élu pour 5 ans.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "En France, la liberté d'expression est-elle absolue ?",
+          "options": [
+            "Oui, on peut tout dire",
+            "Non, elle a des limites fixées par la loi",
+            "Oui, sauf pour les politiciens",
+            "Non, elle n'existe pas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La liberté d'expression est garantie mais limitée par la loi (interdiction de l'incitation à la haine, diffamation, etc.).",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Quel monument parisien a été construit par Napoléon ?",
+          "options": [
+            "La Tour Eiffel",
+            "L'Arc de Triomphe",
+            "Notre-Dame",
+            "Le Louvre"
+          ],
+          "correctAnswer": 1,
+          "explanation": "L'Arc de Triomphe a été commandé par Napoléon en 1806 pour célébrer ses victoires.",
+          "category": "Histoire et culture"
+        },
+        {
+          "question": "Quel document garantit les droits fondamentaux en France ?",
+          "options": [
+            "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "Le Code civil",
+            "Le traité de Rome",
+            "La Charte de l'ONU"
+          ],
+          "correctAnswer": 0,
+          "explanation": "La Déclaration des Droits de l'Homme et du Citoyen de 1789 est le texte fondateur des libertés en France.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "Qui élit les maires en France ?",
+          "options": [
+            "Les citoyens directement",
+            "Le conseil municipal",
+            "Le préfet",
+            "Le Président"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Le maire est élu par le conseil municipal, lui-même élu par les citoyens.",
+          "category": "Système institutionnel"
+        },
+        {
+          "question": "Où obtenir des cours de français gratuits ?",
+          "options": [
+            "Nulle part",
+            "Dans les associations, centres sociaux, ou via l'OFII",
+            "Seulement dans les écoles privées payantes",
+            "À la préfecture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "De nombreuses associations, centres sociaux et l'OFII proposent des cours de français gratuits ou peu coûteux.",
+          "category": "Vivre en France"
+        },
+        {
+          "question": "Les allocations familiales sont-elles réservées aux Français ?",
+          "options": [
+            "Oui",
+            "Non, tous les résidents réguliers y ont droit",
+            "Seulement aux Européens",
+            "Seulement aux riches"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Toute personne résidant régulièrement en France avec des enfants à charge peut bénéficier des allocations familiales.",
+          "category": "Droits et devoirs"
+        },
+        {
+          "question": "La devise 'Liberté, Égalité, Fraternité' date de quelle période ?",
+          "options": [
+            "Moyen Âge",
+            "Révolution française",
+            "Seconde Guerre mondiale",
+            "Années 1960"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cette devise est née pendant la Révolution française de 1789.",
+          "category": "Principes et valeurs"
+        },
+        {
+          "question": "Doit-on respecter les décisions de justice ?",
+          "options": [
+            "Oui, c'est obligatoire",
+            "Non, c'est facultatif",
+            "Seulement si on est d'accord",
+            "Seulement pour les criminels"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Toute personne doit respecter et appliquer les décisions de justice.",
+          "category": "Droits et devoirs"
+        }
+      ]
+    }
+  ]
+}
