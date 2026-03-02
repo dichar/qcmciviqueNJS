@@ -1,4 +1,5 @@
 import { Award, Trophy, Star, Medal } from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
@@ -9,7 +10,12 @@ interface ProgressBadgesProps {
 }
 
 export const ProgressBadges = ({ totalQuizzes, bestScore, averageScore }: ProgressBadgesProps) => {
-  const badges = [];
+  const badges: {
+    icon: LucideIcon;
+    title: string;
+    description: string;
+    color: string;
+  }[] = [];
 
   // Badge basé sur le nombre de quiz
   if (totalQuizzes >= 1) {

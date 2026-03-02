@@ -76,7 +76,7 @@ export function AppSidebar() {
 
         if (results) {
           setQuizCount(results.length);
-          const best = results.reduce((max, r) => {
+          const best = results.reduce((max: number, r: { score: number; total_questions: number }) => {
             const pct = Math.round((r.score / r.total_questions) * 100);
             return pct > max ? pct : max;
           }, 0);
@@ -87,7 +87,7 @@ export function AppSidebar() {
 
     fetchUserData();
 
-    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event: string, session: any) => {
       setUser(session?.user ?? null);
       if (session?.user) {
         fetchUserData();

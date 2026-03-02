@@ -275,7 +275,11 @@ const Blog = () => {
           author: "L'équipe QCM Civique",
         }));
         setPosts(staticAsPosts);
-        const uniqueCategories = [...new Set(staticAsPosts.map((p) => p.category))].filter(Boolean);
+        const uniqueCategories = [
+          ...new Set(
+            staticAsPosts.map((p) => p.category).filter((v): v is string => Boolean(v)),
+          ),
+        ] as string[];
         setCategories(uniqueCategories);
         return;
       }
@@ -293,7 +297,11 @@ const Blog = () => {
       if (data && data.length > 0) {
         setPosts(data);
         // Extract unique categories
-        const uniqueCategories = [...new Set(data.map((p) => p.category))].filter(Boolean);
+        const uniqueCategories = [
+          ...new Set(
+            data.map((p) => p.category).filter((v): v is string => Boolean(v)),
+          ),
+        ] as string[];
         setCategories(uniqueCategories);
       } else {
         // Fallback to static posts if no DB posts
@@ -310,8 +318,12 @@ const Blog = () => {
           author: "L'équipe QCM Civique",
         }));
         setPosts(staticAsPosts);
-        const uniqueCategories = [...new Set(staticAsPosts.map((p) => p.category))].filter(Boolean);
-        setCategories(uniqueCategories);
+      const uniqueCategories = [
+        ...new Set(
+          staticAsPosts.map((p) => p.category).filter((v): v is string => Boolean(v)),
+        ),
+      ] as string[];
+      setCategories(uniqueCategories);
       }
     } catch (error) {
       console.error("Error fetching blog posts:", error);

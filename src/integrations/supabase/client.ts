@@ -6,13 +6,56 @@ const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL ?? "";
 const SUPABASE_PUBLISHABLE_KEY = process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ?? "";
 const browserStorage = typeof window !== "undefined" ? localStorage : undefined;
 
+const isSupabaseConfigured = Boolean(SUPABASE_URL && SUPABASE_PUBLISHABLE_KEY);
+
+const createStubQuery = () => {
+  const resultList = Promise.resolve({ data: [], error: null });
+  const resultSingle = Promise.resolve({ data: null, error: null });
+  const builder: any = {
+    select: () => builder,
+    eq: () => builder,
+    in: () => builder,
+    order: () => builder,
+    limit: () => builder,
+    maybeSingle: () => resultSingle,
+    single: () => resultSingle,
+    update: () => builder,
+    insert: () => builder,
+    delete: () => builder,
+    rpc: () => resultSingle,
+    then: (onFulfilled: any, onRejected: any) => resultList.then(onFulfilled, onRejected),
+  };
+  return builder;
+};
+
+const createStubSupabase = () => {
+  return {
+    auth: {
+      getSession: async () => ({ data: { session: null }, error: null }),
+      getUser: async () => ({ data: { user: null }, error: null }),
+      onAuthStateChange: () => ({ data: { subscription: { unsubscribe: () => {} } } }),
+      signInWithPassword: async () => ({ data: { session: null }, error: null }),
+      signUp: async () => ({ data: { user: null, session: null }, error: null }),
+      signOut: async () => ({ error: null }),
+      setSession: async () => ({ data: { session: null }, error: null }),
+    },
+    from: () => createStubQuery(),
+    rpc: async () => ({ data: null, error: null }),
+    functions: {
+      invoke: async () => ({ data: null, error: null }),
+    },
+  };
+};
+
 // Import the supabase client like this:
 // import { supabase } from "@/integrations/supabase/client";
 
-export const supabase = createClient<Database>(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, {
-  auth: {
-    storage: browserStorage,
-    persistSession: true,
-    autoRefreshToken: true,
-  },
-});
+export const supabase = isSupabaseConfigured
+  ? createClient<Database>(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, {
+      auth: {
+        storage: browserStorage,
+        persistSession: true,
+        autoRefreshToken: true,
+      },
+    })
+  : (createStubSupabase() as any);
