@@ -39,6 +39,11 @@ const createStubSupabase = () => {
       signOut: async () => ({ error: null }),
       setSession: async () => ({ data: { session: null }, error: null }),
     },
+    channel: () => ({
+      on: () => ({ subscribe: () => ({}) }),
+      subscribe: () => ({}),
+    }),
+    removeChannel: () => {},
     from: () => createStubQuery(),
     rpc: async () => ({ data: null, error: null }),
     functions: {
